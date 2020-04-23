@@ -567,7 +567,7 @@ export const configAppMap = {
           source: "departements-aides",
           layout: {
             // visibility: 'none',
-            "text-field": "{tonnageMillions} M",
+            "text-field": "{tonnageMillions} Mt",
             "text-font": ["Open Sans Regular"],
             "text-size": 14,
           },
