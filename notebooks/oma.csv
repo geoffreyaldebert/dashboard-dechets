@@ -1,0 +1,1630 @@
+ANNEE,C_REGION,L_REGION,C_DEPT,N_DEPT,C_TYP_REG_DECHET,L_TYP_REG_DECHET,TONNAGE_OMA_T,POPULATION,RATIO_OMA
+2009,84,Auvergne-Rhône-Alpes,01,Ain,08A,Ordures ménagères résiduelles,134208.6846,588853,227.915429
+2009,84,Auvergne-Rhône-Alpes,01,Ain,08B,"Emballages, journaux-magazines",23003.98339,588853,39.065748
+2009,84,Auvergne-Rhône-Alpes,01,Ain,08C,Verre,19660.99768,588853,33.388634
+2009,84,Auvergne-Rhône-Alpes,03,Allier,08A,Ordures ménagères résiduelles,105182.36693,343046,306.61301
+2009,84,Auvergne-Rhône-Alpes,03,Allier,08B,"Emballages, journaux-magazines",14045.70692,343046,40.944091
+2009,84,Auvergne-Rhône-Alpes,03,Allier,08C,Verre,11011.31574,343046,32.098656
+2009,84,Auvergne-Rhône-Alpes,07,Ardèche,08A,Ordures ménagères résiduelles,89088.4246,313578,284.102917
+2009,84,Auvergne-Rhône-Alpes,07,Ardèche,08B,"Emballages, journaux-magazines",12432.72991,313578,39.647966
+2009,84,Auvergne-Rhône-Alpes,07,Ardèche,08C,Verre,10628.15831,313578,33.893188
+2009,84,Auvergne-Rhône-Alpes,15,Cantal,08A,Ordures ménagères résiduelles,56636.91714,148380,381.701827
+2009,84,Auvergne-Rhône-Alpes,15,Cantal,08B,"Emballages, journaux-magazines",5261.73065,148380,35.461185
+2009,84,Auvergne-Rhône-Alpes,15,Cantal,08C,Verre,4219.05385,148380,28.434114
+2009,84,Auvergne-Rhône-Alpes,26,Drôme,08A,Ordures ménagères résiduelles,131079.42563,482984,271.394964
+2009,84,Auvergne-Rhône-Alpes,26,Drôme,08B,"Emballages, journaux-magazines",19591.27185,482984,40.562983
+2009,84,Auvergne-Rhône-Alpes,26,Drôme,08C,Verre,13983.43274,482984,28.952165
+2009,84,Auvergne-Rhône-Alpes,38,Isère,08A,Ordures ménagères résiduelles,292381.38884,1197038,244.254057
+2009,84,Auvergne-Rhône-Alpes,38,Isère,08B,"Emballages, journaux-magazines",61819.06277,1197038,51.643358
+2009,84,Auvergne-Rhône-Alpes,38,Isère,08C,Verre,32753.33859,1197038,27.361987
+2009,84,Auvergne-Rhône-Alpes,42,Loire,08A,Ordures ménagères résiduelles,204364.35103,746115,273.904627
+2009,84,Auvergne-Rhône-Alpes,42,Loire,08B,"Emballages, journaux-magazines",30843.46712,746115,41.338757
+2009,84,Auvergne-Rhône-Alpes,42,Loire,08C,Verre,17536.27839,746115,23.503452
+2009,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08A,Ordures ménagères résiduelles,57687.52278,223122,258.546995
+2009,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08B,"Emballages, journaux-magazines",8595.32252,223122,38.522971
+2009,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08C,Verre,5941.20208,223122,26.627594
+2009,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08A,Ordures ménagères résiduelles,158708.50937,629416,252.152009
+2009,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08B,"Emballages, journaux-magazines",37533.28473,629416,59.63192
+2009,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08C,Verre,17674.7701,629416,28.081221
+2009,84,Auvergne-Rhône-Alpes,69,Rhône,08A,Ordures ménagères résiduelles,415659.05002,1708671,243.264531
+2009,84,Auvergne-Rhône-Alpes,69,Rhône,08B,"Emballages, journaux-magazines",79765.11568,1708671,46.682547
+2009,84,Auvergne-Rhône-Alpes,69,Rhône,08C,Verre,37757.32047,1708671,22.097478
+2009,84,Auvergne-Rhône-Alpes,73,Savoie,08A,Ordures ménagères résiduelles,137352.81451,411007,334.186071
+2009,84,Auvergne-Rhône-Alpes,73,Savoie,08B,"Emballages, journaux-magazines",22608.658,411007,55.007963
+2009,84,Auvergne-Rhône-Alpes,73,Savoie,08C,Verre,19184.31012,411007,46.676358
+2009,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08A,Ordures ménagères résiduelles,235445.41012,725794,324.397019
+2009,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08B,"Emballages, journaux-magazines",30123.75596,725794,41.504553
+2009,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08C,Verre,30453.09098,725794,41.958311
+2009,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08A,Ordures ménagères résiduelles,138368.39282,524144,263.989271
+2009,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08B,"Emballages, journaux-magazines",29457.71331,524144,56.201565
+2009,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08C,Verre,19581.45433,524144,37.358921
+2009,27,Bourgogne-Franche-Comté,25,Doubs,08A,Ordures ménagères résiduelles,136451.31853,525276,259.770708
+2009,27,Bourgogne-Franche-Comté,25,Doubs,08B,"Emballages, journaux-magazines",27995.5144,525276,53.29677
+2009,27,Bourgogne-Franche-Comté,25,Doubs,08C,Verre,19275.08055,525276,36.695147
+2009,27,Bourgogne-Franche-Comté,39,Jura,08A,Ordures ménagères résiduelles,54879.95745,261277,210.045114
+2009,27,Bourgogne-Franche-Comté,39,Jura,08B,"Emballages, journaux-magazines",17090.96431,261277,65.413198
+2009,27,Bourgogne-Franche-Comté,39,Jura,08C,Verre,10417.09418,261277,39.869924
+2009,27,Bourgogne-Franche-Comté,58,Nièvre,08A,Ordures ménagères résiduelles,52706.64385,220199,239.359142
+2009,27,Bourgogne-Franche-Comté,58,Nièvre,08B,"Emballages, journaux-magazines",10919.25639,220199,49.588128
+2009,27,Bourgogne-Franche-Comté,58,Nièvre,08C,Verre,8866.97714,220199,40.268017
+2009,27,Bourgogne-Franche-Comté,70,Haute-Saône,08A,Ordures ménagères résiduelles,56174.14644,239194,234.84764
+2009,27,Bourgogne-Franche-Comté,70,Haute-Saône,08B,"Emballages, journaux-magazines",17974.25518,239194,75.145092
+2009,27,Bourgogne-Franche-Comté,70,Haute-Saône,08C,Verre,10183.91697,239194,42.575971
+2009,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08A,Ordures ménagères résiduelles,128157.23525,554720,231.030493
+2009,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08B,"Emballages, journaux-magazines",28471.00256,554720,51.324997
+2009,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08C,Verre,21239.51518,554720,38.288713
+2009,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08D,Déchets de produits alimentaires,3170,554720,5.714594
+2009,27,Bourgogne-Franche-Comté,89,Yonne,08A,Ordures ménagères résiduelles,106406.49632,343377,309.882421
+2009,27,Bourgogne-Franche-Comté,89,Yonne,08B,"Emballages, journaux-magazines",12302.99222,343377,35.8294
+2009,27,Bourgogne-Franche-Comté,89,Yonne,08C,Verre,11619.39712,343377,33.8386
+2009,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08A,Ordures ménagères résiduelles,41201.9199,142461,289.215433
+2009,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08B,"Emballages, journaux-magazines",5928.88939,142461,41.617631
+2009,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08C,Verre,4302.16506,142461,30.198896
+2009,53,Bretagne,22,Cotes-d'Armor,08A,Ordures ménagères résiduelles,158002.93221,587519,268.932463
+2009,53,Bretagne,22,Cotes-d'Armor,08B,"Emballages, journaux-magazines",26722.67714,587519,45.483936
+2009,53,Bretagne,22,Cotes-d'Armor,08C,Verre,29234.81412,587519,49.759776
+2009,53,Bretagne,29,Finistère,08A,Ordures ménagères résiduelles,248509.99129,893914,278.002124
+2009,53,Bretagne,29,Finistère,08B,"Emballages, journaux-magazines",47470.04605,893914,53.103593
+2009,53,Bretagne,29,Finistère,08C,Verre,37543.42444,893914,41.998922
+2009,53,Bretagne,35,Ille-et-Vilaine,08A,Ordures ménagères résiduelles,221068.37652,977449,226.168707
+2009,53,Bretagne,35,Ille-et-Vilaine,08B,"Emballages, journaux-magazines",52087.9822,977449,53.289718
+2009,53,Bretagne,35,Ille-et-Vilaine,08C,Verre,38965.33998,977449,39.86432
+2009,53,Bretagne,56,Morbihan,08A,Ordures ménagères résiduelles,181685.29079,716182,253.685921
+2009,53,Bretagne,56,Morbihan,08B,"Emballages, journaux-magazines",38640.18322,716182,53.953022
+2009,53,Bretagne,56,Morbihan,08C,Verre,37142.4052,716182,51.861684
+2009,53,Bretagne,56,Morbihan,08D,Déchets de produits alimentaires,7463,716182,10.420535
+2009,24,Centre-Val de Loire,18,Cher,08A,Ordures ménagères résiduelles,81841.7175,311022,263.138033
+2009,24,Centre-Val de Loire,18,Cher,08B,"Emballages, journaux-magazines",15611.78556,311022,50.195116
+2009,24,Centre-Val de Loire,18,Cher,08C,Verre,12195.97448,311022,39.212578
+2009,24,Centre-Val de Loire,28,Eure-et-Loir,08A,Ordures ménagères résiduelles,117834.13951,425502,276.929696
+2009,24,Centre-Val de Loire,28,Eure-et-Loir,08B,"Emballages, journaux-magazines",17912.02429,425502,42.096216
+2009,24,Centre-Val de Loire,28,Eure-et-Loir,08C,Verre,13913.47912,425502,32.698974
+2009,24,Centre-Val de Loire,36,Indre,08A,Ordures ménagères résiduelles,49930.65372,232268,214.970007
+2009,24,Centre-Val de Loire,36,Indre,08B,"Emballages, journaux-magazines",10315.58207,232268,44.412411
+2009,24,Centre-Val de Loire,36,Indre,08C,Verre,10060.51494,232268,43.314253
+2009,24,Centre-Val de Loire,37,Indre-et-Loire,08A,Ordures ménagères résiduelles,148239.23244,588420,251.927589
+2009,24,Centre-Val de Loire,37,Indre-et-Loire,08B,"Emballages, journaux-magazines",31148.45741,588420,52.935755
+2009,24,Centre-Val de Loire,37,Indre-et-Loire,08C,Verre,21127.23841,588420,35.905031
+2009,24,Centre-Val de Loire,41,Loir-et-Cher,08A,Ordures ménagères résiduelles,82919.77266,327868,252.905964
+2009,24,Centre-Val de Loire,41,Loir-et-Cher,08B,"Emballages, journaux-magazines",13253.9284,327868,40.424586
+2009,24,Centre-Val de Loire,41,Loir-et-Cher,08C,Verre,12535.99807,327868,38.234893
+2009,24,Centre-Val de Loire,45,Loiret,08A,Ordures ménagères résiduelles,171335.09663,653510,262.176702
+2009,24,Centre-Val de Loire,45,Loiret,08B,"Emballages, journaux-magazines",24839.547,653510,38.009436
+2009,24,Centre-Val de Loire,45,Loiret,08C,Verre,18738.77097,653510,28.674038
+2009,94,Corse,2A,Corse-du-Sud,08A,Ordures ménagères résiduelles,72034.68269,141330,509.691379
+2009,94,Corse,2A,Corse-du-Sud,08B,"Emballages, journaux-magazines",1691.16654,141330,11.966083
+2009,94,Corse,2A,Corse-du-Sud,08C,Verre,1576.4006,141330,11.15404
+2009,94,Corse,2B,Haute-Corse,08A,Ordures ménagères résiduelles,72086.76157,164344,438.633363
+2009,94,Corse,2B,Haute-Corse,08B,"Emballages, journaux-magazines",1935.67759,164344,11.778206
+2009,94,Corse,2B,Haute-Corse,08C,Verre,2534.82716,164344,15.42391
+2009,97,Dom-Com,971,Guadeloupe,08A,Ordures ménagères résiduelles,171982.99743,401554,428.293573
+2009,97,Dom-Com,971,Guadeloupe,08B,"Emballages, journaux-magazines",7876.58152,401554,19.615248
+2009,97,Dom-Com,971,Guadeloupe,08C,Verre,1563.76981,401554,3.894295
+2009,97,Dom-Com,971,Guadeloupe,08D,Déchets de produits alimentaires,3.694,401554,0.009199
+2009,97,Dom-Com,972,Martinique,08A,Ordures ménagères résiduelles,130032.95,396404,328.031377
+2009,97,Dom-Com,972,Martinique,08B,"Emballages, journaux-magazines",1227.932,396404,3.097678
+2009,97,Dom-Com,972,Martinique,08C,Verre,1339.58,396404,3.37933
+2009,97,Dom-Com,972,Martinique,08D,Déchets de produits alimentaires,1047,396404,2.641244
+2009,97,Dom-Com,973,Guyane,08A,Ordures ménagères résiduelles,75005.30378,224469,334.145489
+2009,97,Dom-Com,973,Guyane,08B,"Emballages, journaux-magazines",181.72124,224469,0.80956
+2009,97,Dom-Com,973,Guyane,08C,Verre,563.13816,224469,2.508756
+2009,97,Dom-Com,974,Réunion,08A,Ordures ménagères résiduelles,239385.97,816364,293.234353
+2009,97,Dom-Com,974,Réunion,08B,"Emballages, journaux-magazines",23439.05,816364,28.711518
+2009,97,Dom-Com,974,Réunion,08C,Verre,7520.17945,816364,9.211797
+2009,44,Grand-Est,08,Ardennes,08A,Ordures ménagères résiduelles,82993.93432,283296,292.958369
+2009,44,Grand-Est,08,Ardennes,08B,"Emballages, journaux-magazines",15983.0429,283296,56.418173
+2009,44,Grand-Est,08,Ardennes,08C,Verre,10148.03531,283296,35.821315
+2009,44,Grand-Est,10,Aube,08A,Ordures ménagères résiduelles,91337.87574,303298,301.148954
+2009,44,Grand-Est,10,Aube,08B,"Emballages, journaux-magazines",12545.06765,303298,41.362183
+2009,44,Grand-Est,10,Aube,08C,Verre,11597.92549,303298,38.239373
+2009,44,Grand-Est,51,Marne,08A,Ordures ménagères résiduelles,150194.31726,566145,265.29302
+2009,44,Grand-Est,51,Marne,08B,"Emballages, journaux-magazines",30426.21458,566145,53.742794
+2009,44,Grand-Est,51,Marne,08C,Verre,23366.75312,566145,41.273442
+2009,44,Grand-Est,52,Haute-Marne,08A,Ordures ménagères résiduelles,53191.16692,185214,287.187614
+2009,44,Grand-Est,52,Haute-Marne,08B,"Emballages, journaux-magazines",8484.77302,185214,45.810646
+2009,44,Grand-Est,52,Haute-Marne,08C,Verre,7348.12404,185214,39.673696
+2009,44,Grand-Est,54,Meurthe-et-Moselle,08A,Ordures ménagères résiduelles,215342.68789,731019,294.578783
+2009,44,Grand-Est,54,Meurthe-et-Moselle,08B,"Emballages, journaux-magazines",33734.20279,731019,46.14682
+2009,44,Grand-Est,54,Meurthe-et-Moselle,08C,Verre,20763.40116,731019,28.403367
+2009,44,Grand-Est,54,Meurthe-et-Moselle,08D,Déchets de produits alimentaires,110,731019,0.150474
+2009,44,Grand-Est,55,Meuse,08A,Ordures ménagères résiduelles,51569.32042,194003,265.817128
+2009,44,Grand-Est,55,Meuse,08B,"Emballages, journaux-magazines",8878.36794,194003,45.764075
+2009,44,Grand-Est,55,Meuse,08C,Verre,6777.4954,194003,34.935003
+2009,44,Grand-Est,57,Moselle,08A,Ordures ménagères résiduelles,325123.13456,1044898,311.152987
+2009,44,Grand-Est,57,Moselle,08B,"Emballages, journaux-magazines",55233.52838,1044898,52.86021
+2009,44,Grand-Est,57,Moselle,08C,Verre,29797.23446,1044898,28.516883
+2009,44,Grand-Est,67,Bas-Rhin,08A,Ordures ménagères résiduelles,293269.04098,1094439,267.962893
+2009,44,Grand-Est,67,Bas-Rhin,08B,"Emballages, journaux-magazines",51533.94941,1094439,47.087091
+2009,44,Grand-Est,67,Bas-Rhin,08C,Verre,31164.09233,1094439,28.474946
+2009,44,Grand-Est,68,Haut-Rhin,08A,Ordures ménagères résiduelles,191958.0719,748614,256.417956
+2009,44,Grand-Est,68,Haut-Rhin,08B,"Emballages, journaux-magazines",36415.78977,748614,48.64428
+2009,44,Grand-Est,68,Haut-Rhin,08C,Verre,25847.00454,748614,34.526477
+2009,44,Grand-Est,68,Haut-Rhin,08D,Déchets de produits alimentaires,533,748614,0.711982
+2009,44,Grand-Est,88,Vosges,08A,Ordures ménagères résiduelles,104381.95799,380192,274.550642
+2009,44,Grand-Est,88,Vosges,08B,"Emballages, journaux-magazines",14492.90828,380192,38.119971
+2009,44,Grand-Est,88,Vosges,08C,Verre,15433.93276,380192,40.595101
+2009,32,Hauts-de-France,02,Aisne,08A,Ordures ménagères résiduelles,144809.76349,539870,268.230802
+2009,32,Hauts-de-France,02,Aisne,08B,"Emballages, journaux-magazines",26051.3169,539870,48.254796
+2009,32,Hauts-de-France,02,Aisne,08C,Verre,21739.31655,539870,40.267687
+2009,32,Hauts-de-France,02,Aisne,08D,Déchets de produits alimentaires,4096.22,539870,7.587419
+2009,32,Hauts-de-France,59,Nord,08A,Ordures ménagères résiduelles,703943.77596,2571940,273.701476
+2009,32,Hauts-de-France,59,Nord,08B,"Emballages, journaux-magazines",224536.96931,2571940,87.302568
+2009,32,Hauts-de-France,59,Nord,08C,Verre,74965.97399,2571940,29.147637
+2009,32,Hauts-de-France,59,Nord,08D,Déchets de produits alimentaires,8100,2571940,3.149373
+2009,32,Hauts-de-France,60,Oise,08A,Ordures ménagères résiduelles,247999.08,801512,309.414057
+2009,32,Hauts-de-France,60,Oise,08B,"Emballages, journaux-magazines",36387,801512,45.397947
+2009,32,Hauts-de-France,60,Oise,08C,Verre,22945.62,801512,28.627918
+2009,32,Hauts-de-France,62,Pas-de-Calais,08A,Ordures ménagères résiduelles,452536.48156,1461257,309.689863
+2009,32,Hauts-de-France,62,Pas-de-Calais,08B,"Emballages, journaux-magazines",93123.64311,1461257,63.728449
+2009,32,Hauts-de-France,62,Pas-de-Calais,08C,Verre,67304.73836,1461257,46.05948
+2009,32,Hauts-de-France,80,Somme,08A,Ordures ménagères résiduelles,178898.54766,569775,313.981041
+2009,32,Hauts-de-France,80,Somme,08B,"Emballages, journaux-magazines",27437.32119,569775,48.154659
+2009,32,Hauts-de-France,80,Somme,08C,Verre,23010.68347,569775,40.385561
+2009,32,Hauts-de-France,80,Somme,08D,Déchets de produits alimentaires,2427,569775,4.259576
+2009,11,Ile-de-France,75,Paris,08A,Ordures ménagères résiduelles,841716,2234105,376.757583
+2009,11,Ile-de-France,75,Paris,08B,"Emballages, journaux-magazines",81195,2234105,36.343412
+2009,11,Ile-de-France,75,Paris,08C,Verre,62001,2234105,27.752052
+2009,11,Ile-de-France,77,Seine-et-Marne,08A,Ordures ménagères résiduelles,401748.35833,1313414,305.880977
+2009,11,Ile-de-France,77,Seine-et-Marne,08B,"Emballages, journaux-magazines",52744.30059,1313414,40.158168
+2009,11,Ile-de-France,77,Seine-et-Marne,08C,Verre,32485.25027,1313414,24.733442
+2009,11,Ile-de-France,78,Yvelines,08A,Ordures ménagères résiduelles,382877.98279,1407560,272.01539
+2009,11,Ile-de-France,78,Yvelines,08B,"Emballages, journaux-magazines",61021.90029,1407560,43.352965
+2009,11,Ile-de-France,78,Yvelines,08C,Verre,34559.80431,1407560,24.552988
+2009,11,Ile-de-France,91,Essonne,08A,Ordures ménagères résiduelles,341958.90641,1208004,283.077627
+2009,11,Ile-de-France,91,Essonne,08B,"Emballages, journaux-magazines",49475.9225,1208004,40.956753
+2009,11,Ile-de-France,91,Essonne,08C,Verre,26138.54892,1208004,21.637799
+2009,11,Ile-de-France,92,Hauts-de-seine,08A,Ordures ménagères résiduelles,488118.43681,1561745,312.546822
+2009,11,Ile-de-France,92,Hauts-de-seine,08B,"Emballages, journaux-magazines",50732.46803,1561745,32.484476
+2009,11,Ile-de-France,92,Hauts-de-seine,08C,Verre,29256.13251,1561745,18.732976
+2009,11,Ile-de-France,93,Seine-Saint-Denis,08A,Ordures ménagères résiduelles,491161.2986,1515983,323.988658
+2009,11,Ile-de-France,93,Seine-Saint-Denis,08B,"Emballages, journaux-magazines",36611.226,1515983,24.150156
+2009,11,Ile-de-France,93,Seine-Saint-Denis,08C,Verre,16496.42145,1515983,10.881666
+2009,11,Ile-de-France,94,Val-de-Marne,08A,Ordures ménagères résiduelles,387397.51061,1318537,293.8086
+2009,11,Ile-de-France,94,Val-de-Marne,08B,"Emballages, journaux-magazines",44114.97249,1318537,33.457515
+2009,11,Ile-de-France,94,Val-de-Marne,08C,Verre,22604.03087,1318537,17.143266
+2009,11,Ile-de-France,95,Val-d'Oise,08A,Ordures ménagères résiduelles,362908.32071,1168892,310.472071
+2009,11,Ile-de-France,95,Val-d'Oise,08B,"Emballages, journaux-magazines",39218.12176,1168892,33.551535
+2009,11,Ile-de-France,95,Val-d'Oise,08C,Verre,21443.5504,1168892,18.345193
+2009,28,Normandie,14,Calvados,08A,Ordures ménagères résiduelles,211650.49288,680908,310.835667
+2009,28,Normandie,14,Calvados,08B,"Emballages, journaux-magazines",34710.32933,680908,50.976533
+2009,28,Normandie,14,Calvados,08C,Verre,23729.81218,680908,34.850247
+2009,28,Normandie,27,Eure,08A,Ordures ménagères résiduelles,167151.83357,582822,286.797398
+2009,28,Normandie,27,Eure,08B,"Emballages, journaux-magazines",23927.73099,582822,41.054955
+2009,28,Normandie,27,Eure,08C,Verre,17999.70988,582822,30.883717
+2009,28,Normandie,50,Manche,08A,Ordures ménagères résiduelles,137505.17815,497762,276.246837
+2009,28,Normandie,50,Manche,08B,"Emballages, journaux-magazines",29742.48503,497762,59.752421
+2009,28,Normandie,50,Manche,08C,Verre,22646.71953,497762,45.497084
+2009,28,Normandie,61,Orne,08A,Ordures ménagères résiduelles,77694.99948,292210,265.887544
+2009,28,Normandie,61,Orne,08B,"Emballages, journaux-magazines",11966.61874,292210,40.952119
+2009,28,Normandie,61,Orne,08C,Verre,10001.45319,292210,34.226936
+2009,28,Normandie,76,Seine-Maritime,08A,Ordures ménagères résiduelles,392610.40609,1250120,314.058175
+2009,28,Normandie,76,Seine-Maritime,08B,"Emballages, journaux-magazines",52903.46775,1250120,42.318711
+2009,28,Normandie,76,Seine-Maritime,08C,Verre,34739.61231,1250120,27.789022
+2009,28,Normandie,76,Seine-Maritime,08D,Déchets de produits alimentaires,3078,1250120,2.462163
+2009,75,Nouvelle-Aquitaine,16,Charente,08A,Ordures ménagères résiduelles,81491.9,351563,231.798852
+2009,75,Nouvelle-Aquitaine,16,Charente,08B,"Emballages, journaux-magazines",21075.9,351563,59.949141
+2009,75,Nouvelle-Aquitaine,16,Charente,08C,Verre,11827,351563,33.641196
+2009,75,Nouvelle-Aquitaine,17,Charente-Maritime,08A,Ordures ménagères résiduelles,204587.63252,616607,331.795831
+2009,75,Nouvelle-Aquitaine,17,Charente-Maritime,08B,"Emballages, journaux-magazines",35957.54983,616607,58.315182
+2009,75,Nouvelle-Aquitaine,17,Charente-Maritime,08C,Verre,28796.38723,616607,46.701362
+2009,75,Nouvelle-Aquitaine,19,Corrèze,08A,Ordures ménagères résiduelles,74748.88352,243352,307.163629
+2009,75,Nouvelle-Aquitaine,19,Corrèze,08B,"Emballages, journaux-magazines",7569.30622,243352,31.104351
+2009,75,Nouvelle-Aquitaine,19,Corrèze,08C,Verre,6713.27496,243352,27.586684
+2009,75,Nouvelle-Aquitaine,23,Creuse,08A,Ordures ménagères résiduelles,30897.74413,123584,250.014112
+2009,75,Nouvelle-Aquitaine,23,Creuse,08B,"Emballages, journaux-magazines",6424.01061,123584,51.980924
+2009,75,Nouvelle-Aquitaine,23,Creuse,08C,Verre,4388.44328,123584,35.509801
+2009,75,Nouvelle-Aquitaine,24,Dordogne,08A,Ordures ménagères résiduelles,117414.82948,412082,284.93074
+2009,75,Nouvelle-Aquitaine,24,Dordogne,08B,"Emballages, journaux-magazines",16880.21906,412082,40.963252
+2009,75,Nouvelle-Aquitaine,24,Dordogne,08C,Verre,15216.57393,412082,36.926082
+2009,75,Nouvelle-Aquitaine,33,Gironde,08A,Ordures ménagères résiduelles,400971.77246,1434661,279.488863
+2009,75,Nouvelle-Aquitaine,33,Gironde,08B,"Emballages, journaux-magazines",77881.09398,1434661,54.285363
+2009,75,Nouvelle-Aquitaine,33,Gironde,08C,Verre,42955.53713,1434661,29.941245
+2009,75,Nouvelle-Aquitaine,40,Landes,08A,Ordures ménagères résiduelles,131554.13341,379341,346.796506
+2009,75,Nouvelle-Aquitaine,40,Landes,08B,"Emballages, journaux-magazines",16119.09486,379341,42.492361
+2009,75,Nouvelle-Aquitaine,40,Landes,08C,Verre,12750.43943,379341,33.612078
+2009,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08A,Ordures ménagères résiduelles,95185.43722,329697,288.705803
+2009,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08B,"Emballages, journaux-magazines",15837.55666,329697,48.036702
+2009,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08C,Verre,9484.74982,329697,28.76808
+2009,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08A,Ordures ménagères résiduelles,187179.86919,650356,287.811397
+2009,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08B,"Emballages, journaux-magazines",27935.16965,650356,42.953658
+2009,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08C,Verre,20264.75425,650356,31.159479
+2009,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08A,Ordures ménagères résiduelles,77704.42247,366339,212.110702
+2009,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08B,"Emballages, journaux-magazines",17688.71308,366339,48.285094
+2009,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08C,Verre,13666.97359,366339,37.306903
+2009,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08D,Déchets de produits alimentaires,68,366339,0.18562
+2009,75,Nouvelle-Aquitaine,86,Vienne,08A,Ordures ménagères résiduelles,99488.28021,426066,233.504387
+2009,75,Nouvelle-Aquitaine,86,Vienne,08B,"Emballages, journaux-magazines",20495.59585,426066,48.104274
+2009,75,Nouvelle-Aquitaine,86,Vienne,08C,Verre,16808.45877,426066,39.450363
+2009,75,Nouvelle-Aquitaine,87,Haute-Vienne,08A,Ordures ménagères résiduelles,93524.66886,374849,249.499582
+2009,75,Nouvelle-Aquitaine,87,Haute-Vienne,08B,"Emballages, journaux-magazines",21183.105,374849,56.511035
+2009,75,Nouvelle-Aquitaine,87,Haute-Vienne,08C,Verre,11144.74,374849,29.731278
+2009,76,Occitanie,09,Ariège,08B,"Emballages, journaux-magazines",6936.9956,151117,45.904799
+2009,76,Occitanie,09,Ariège,08C,Verre,4542.38588,151117,30.058735
+2011,76,Occitanie,09,Ariège,08A,Ordures ménagères résiduelles,47020.07771,152286,308.761657
+2009,76,Occitanie,11,Aude,08A,Ordures ménagères résiduelles,128282.98636,353980,362.401792
+2009,76,Occitanie,11,Aude,08B,"Emballages, journaux-magazines",14220.42231,353980,40.172954
+2009,76,Occitanie,11,Aude,08C,Verre,10795.22589,353980,30.496711
+2009,76,Occitanie,12,Aveyron,08A,Ordures ménagères résiduelles,67132.44812,277048,242.313419
+2009,76,Occitanie,12,Aveyron,08B,"Emballages, journaux-magazines",16911.58001,277048,61.042057
+2009,76,Occitanie,12,Aveyron,08C,Verre,8428.06002,277048,30.420937
+2009,76,Occitanie,30,Gard,08A,Ordures ménagères résiduelles,213229.2056,701883,303.795939
+2009,76,Occitanie,30,Gard,08B,"Emballages, journaux-magazines",31843.05947,701883,45.368044
+2009,76,Occitanie,30,Gard,08C,Verre,19127.33955,701883,27.251464
+2009,76,Occitanie,31,Haute-Garonne,08A,Ordures ménagères résiduelles,351304.4135,1230820,285.423062
+2009,76,Occitanie,31,Haute-Garonne,08B,"Emballages, journaux-magazines",53942.18632,1230820,43.826218
+2009,76,Occitanie,31,Haute-Garonne,08C,Verre,31545.62412,1230820,25.629762
+2009,76,Occitanie,32,Gers,08A,Ordures ménagères résiduelles,48686.72458,187181,260.105056
+2009,76,Occitanie,32,Gers,08B,"Emballages, journaux-magazines",8554.6947,187181,45.702794
+2009,76,Occitanie,32,Gers,08C,Verre,6469.18431,187181,34.561116
+2009,76,Occitanie,34,Hérault,08A,Ordures ménagères résiduelles,356205.55451,1031974,345.169117
+2009,76,Occitanie,34,Hérault,08B,"Emballages, journaux-magazines",48849.41439,1031974,47.335896
+2009,76,Occitanie,34,Hérault,08C,Verre,27109.42028,1031974,26.269479
+2009,76,Occitanie,34,Hérault,08D,Déchets de produits alimentaires,8885,1031974,8.609713
+2009,76,Occitanie,46,Lot,08A,Ordures ménagères résiduelles,43547.20178,173562,250.902857
+2009,76,Occitanie,46,Lot,08B,"Emballages, journaux-magazines",14411.58269,173562,83.034205
+2009,76,Occitanie,46,Lot,08C,Verre,6718.34035,173562,38.70859
+2009,76,Occitanie,48,Lozère,08A,Ordures ménagères résiduelles,22393.05552,77163,290.204573
+2009,76,Occitanie,48,Lozère,08B,"Emballages, journaux-magazines",3193.15147,77163,41.381898
+2009,76,Occitanie,48,Lozère,08C,Verre,2664.39988,77163,34.5295
+2009,76,Occitanie,65,Hautes-Pyrénées,08A,Ordures ménagères résiduelles,74224.48719,229670,323.178853
+2009,76,Occitanie,65,Hautes-Pyrénées,08B,"Emballages, journaux-magazines",14794.79119,229670,64.417604
+2009,76,Occitanie,65,Hautes-Pyrénées,08C,Verre,7513.78376,229670,32.715564
+2009,76,Occitanie,66,Pyrénées-Orientales,08A,Ordures ménagères résiduelles,171142.62744,445890,383.822528
+2009,76,Occitanie,66,Pyrénées-Orientales,08B,"Emballages, journaux-magazines",21844.77477,445890,48.991398
+2009,76,Occitanie,66,Pyrénées-Orientales,08C,Verre,13267.37719,445890,29.754821
+2009,76,Occitanie,81,Tarn,08A,Ordures ménagères résiduelles,99683.91399,374018,266.521702
+2009,76,Occitanie,81,Tarn,08B,"Emballages, journaux-magazines",21753.96576,374018,58.162884
+2009,76,Occitanie,81,Tarn,08C,Verre,9420.91116,374018,25.188389
+2009,76,Occitanie,82,Tarn-et-Garonne,08A,Ordures ménagères résiduelles,66988.40736,239291,279.945369
+2009,76,Occitanie,82,Tarn-et-Garonne,08B,"Emballages, journaux-magazines",14387.82091,239291,60.126878
+2009,76,Occitanie,82,Tarn-et-Garonne,08C,Verre,8025.81183,239291,33.539965
+2009,93,PACA,04,Alpes-de-Haute-Provence,08A,Ordures ménagères résiduelles,61807.963,159450,387.632254
+2009,93,PACA,04,Alpes-de-Haute-Provence,08B,"Emballages, journaux-magazines",5857.48587,159450,36.735565
+2009,93,PACA,04,Alpes-de-Haute-Provence,08C,Verre,4982.30935,159450,31.246844
+2009,93,PACA,05,Hautes-Alpes,08A,Ordures ménagères résiduelles,52641.09218,135836,387.534174
+2009,93,PACA,05,Hautes-Alpes,08B,"Emballages, journaux-magazines",6656.72426,135836,49.005596
+2009,93,PACA,05,Hautes-Alpes,08C,Verre,5291.26236,135836,38.953313
+2009,93,PACA,06,Alpes-Maritimes,08A,Ordures ménagères résiduelles,487684,1079100,451.935872
+2009,93,PACA,06,Alpes-Maritimes,08B,"Emballages, journaux-magazines",43165.78298,1079100,40.001652
+2009,93,PACA,06,Alpes-Maritimes,08C,Verre,24431.98001,1079100,22.641071
+2009,93,PACA,06,Alpes-Maritimes,08D,Déchets de produits alimentaires,155,1079100,0.143638
+2009,93,PACA,13,Bouches-du-Rhône,08A,Ordures ménagères résiduelles,797275.97098,1967299,405.264258
+2009,93,PACA,13,Bouches-du-Rhône,08B,"Emballages, journaux-magazines",52309.80297,1967299,26.589655
+2009,93,PACA,13,Bouches-du-Rhône,08C,Verre,27354.37776,1967299,13.904534
+2009,93,PACA,83,Var,08A,Ordures ménagères résiduelles,482363.44075,1007303,478.86628
+2009,93,PACA,83,Var,08B,"Emballages, journaux-magazines",36242.70585,1007303,35.979944
+2009,93,PACA,83,Var,08C,Verre,25877.42924,1007303,25.689816
+2009,93,PACA,84,Vaucluse,08A,Ordures ménagères résiduelles,202492.62247,540065,374.941206
+2009,93,PACA,84,Vaucluse,08B,"Emballages, journaux-magazines",17596.60596,540065,32.582385
+2009,93,PACA,84,Vaucluse,08C,Verre,12859.004,540065,23.810104
+2009,52,Pays de la Loire,44,Loire-Atlantique,08A,Ordures ménagères résiduelles,313925.50446,1266358,247.896332
+2009,52,Pays de la Loire,44,Loire-Atlantique,08B,"Emballages, journaux-magazines",65598.87764,1266358,51.80121
+2009,52,Pays de la Loire,44,Loire-Atlantique,08C,Verre,47698.51785,1266358,37.665903
+2009,52,Pays de la Loire,49,Maine-et-Loire,08A,Ordures ménagères résiduelles,155963.97077,780082,199.93279
+2009,52,Pays de la Loire,49,Maine-et-Loire,08B,"Emballages, journaux-magazines",43736.79937,780082,56.066925
+2009,52,Pays de la Loire,49,Maine-et-Loire,08C,Verre,29641.27407,780082,37.997638
+2009,52,Pays de la Loire,53,Mayenne,08A,Ordures ménagères résiduelles,71384.65522,305147,233.9353
+2009,52,Pays de la Loire,53,Mayenne,08B,"Emballages, journaux-magazines",11228.13421,305147,36.79582
+2009,52,Pays de la Loire,53,Mayenne,08C,Verre,10071.4209,305147,33.005144
+2009,52,Pays de la Loire,72,Sarthe,08A,Ordures ménagères résiduelles,133077.30735,561050,237.193311
+2009,52,Pays de la Loire,72,Sarthe,08B,"Emballages, journaux-magazines",28050.25983,561050,49.996007
+2009,52,Pays de la Loire,72,Sarthe,08C,Verre,19410.17928,561050,34.596166
+2009,52,Pays de la Loire,85,Vendée,08A,Ordures ménagères résiduelles,150046.42332,626411,239.533506
+2009,52,Pays de la Loire,85,Vendée,08B,"Emballages, journaux-magazines",38209.99083,626411,60.998275
+2009,52,Pays de la Loire,85,Vendée,08C,Verre,30597.73527,626411,48.846101
+2011,84,Auvergne-Rhône-Alpes,01,Ain,08A,Ordures ménagères résiduelles,133143.6638,603827,220.499685
+2011,84,Auvergne-Rhône-Alpes,01,Ain,08B,"Emballages, journaux-magazines",24779.2026,603827,41.036923
+2011,84,Auvergne-Rhône-Alpes,01,Ain,08C,Verre,20039.69729,603827,33.187812
+2011,84,Auvergne-Rhône-Alpes,03,Allier,08A,Ordures ménagères résiduelles,100069.65009,342729,291.978939
+2011,84,Auvergne-Rhône-Alpes,03,Allier,08B,"Emballages, journaux-magazines",17068.52903,342729,49.801823
+2011,84,Auvergne-Rhône-Alpes,03,Allier,08C,Verre,10295.04357,342729,30.038437
+2011,84,Auvergne-Rhône-Alpes,07,Ardèche,08A,Ordures ménagères résiduelles,85587.85844,317277,269.757525
+2011,84,Auvergne-Rhône-Alpes,07,Ardèche,08B,"Emballages, journaux-magazines",12676.77309,317277,39.954907
+2011,84,Auvergne-Rhône-Alpes,07,Ardèche,08C,Verre,11019.02512,317277,34.729983
+2011,84,Auvergne-Rhône-Alpes,15,Cantal,08A,Ordures ménagères résiduelles,55762.07105,147577,377.850688
+2011,84,Auvergne-Rhône-Alpes,15,Cantal,08B,"Emballages, journaux-magazines",5489.96695,147577,37.200694
+2011,84,Auvergne-Rhône-Alpes,15,Cantal,08C,Verre,4490.72565,147577,30.429712
+2011,84,Auvergne-Rhône-Alpes,26,Drôme,08A,Ordures ménagères résiduelles,129488.85685,487993,265.349824
+2011,84,Auvergne-Rhône-Alpes,26,Drôme,08B,"Emballages, journaux-magazines",20155.49344,487993,41.302833
+2011,84,Auvergne-Rhône-Alpes,26,Drôme,08C,Verre,14439.53364,487993,29.589632
+2011,84,Auvergne-Rhône-Alpes,38,Isère,08A,Ordures ménagères résiduelles,287665.5576,1215212,236.720471
+2011,84,Auvergne-Rhône-Alpes,38,Isère,08B,"Emballages, journaux-magazines",64194.3023,1215212,52.825599
+2011,84,Auvergne-Rhône-Alpes,38,Isère,08C,Verre,32726.5891,1215212,26.930765
+2011,84,Auvergne-Rhône-Alpes,42,Loire,08A,Ordures ménagères résiduelles,192043.84042,749053,256.382179
+2011,84,Auvergne-Rhône-Alpes,42,Loire,08B,"Emballages, journaux-magazines",33205.28809,749053,44.329691
+2011,84,Auvergne-Rhône-Alpes,42,Loire,08C,Verre,17798.46518,749053,23.761289
+2011,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08A,Ordures ménagères résiduelles,54363.22189,224907,241.714228
+2011,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08B,"Emballages, journaux-magazines",10307.24752,224907,45.828931
+2011,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08C,Verre,6314.28013,224907,28.075071
+2011,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08A,Ordures ménagères résiduelles,154252.6738,635469,242.738314
+2011,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08B,"Emballages, journaux-magazines",42050.48418,635469,66.172361
+2011,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08C,Verre,17805.6562,635469,28.019708
+2011,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08D,Déchets de produits alimentaires,9862.18,635469,15.519529
+2011,84,Auvergne-Rhône-Alpes,69,Rhône,08A,Ordures ménagères résiduelles,412392.142,1744236,236.43139
+2011,84,Auvergne-Rhône-Alpes,69,Rhône,08B,"Emballages, journaux-magazines",85021.44349,1744236,48.744231
+2011,84,Auvergne-Rhône-Alpes,69,Rhône,08C,Verre,38617.61134,1744236,22.140129
+2011,84,Auvergne-Rhône-Alpes,73,Savoie,08A,Ordures ménagères résiduelles,133910.15696,418949,319.633551
+2011,84,Auvergne-Rhône-Alpes,73,Savoie,08B,"Emballages, journaux-magazines",23263.6976,418949,55.52871
+2011,84,Auvergne-Rhône-Alpes,73,Savoie,08C,Verre,19729.59592,418949,47.093073
+2011,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08A,Ordures ménagères résiduelles,232239.7012,746994,310.899018
+2011,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08B,"Emballages, journaux-magazines",33200.49098,746994,44.445458
+2011,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08C,Verre,30508.1998,746994,40.841291
+2011,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08A,Ordures ménagères résiduelles,133321.86066,525931,253.496866
+2011,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08B,"Emballages, journaux-magazines",29264.50669,525931,55.643243
+2011,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08C,Verre,19705.4794,525931,37.467803
+2011,27,Bourgogne-Franche-Comté,25,Doubs,08A,Ordures ménagères résiduelles,120625.17747,529103,227.98052
+2011,27,Bourgogne-Franche-Comté,25,Doubs,08B,"Emballages, journaux-magazines",36923.2898,529103,69.784691
+2011,27,Bourgogne-Franche-Comté,25,Doubs,08C,Verre,19782.34094,529103,37.388449
+2011,27,Bourgogne-Franche-Comté,39,Jura,08A,Ordures ménagères résiduelles,52357.26947,261294,200.376853
+2011,27,Bourgogne-Franche-Comté,39,Jura,08B,"Emballages, journaux-magazines",17638.44544,261294,67.504211
+2011,27,Bourgogne-Franche-Comté,39,Jura,08C,Verre,10936.48418,261294,41.855091
+2011,27,Bourgogne-Franche-Comté,58,Nièvre,08A,Ordures ménagères résiduelles,46139.21654,218341,211.317235
+2011,27,Bourgogne-Franche-Comté,58,Nièvre,08B,"Emballages, journaux-magazines",11602.54511,218341,53.139562
+2011,27,Bourgogne-Franche-Comté,58,Nièvre,08C,Verre,9104.82531,218341,41.700025
+2011,27,Bourgogne-Franche-Comté,70,Haute-Saône,08A,Ordures ménagères résiduelles,44955.16363,239695,187.551528
+2011,27,Bourgogne-Franche-Comté,70,Haute-Saône,08B,"Emballages, journaux-magazines",13052.8441,239695,54.456054
+2011,27,Bourgogne-Franche-Comté,70,Haute-Saône,08C,Verre,9850.98318,239695,41.097991
+2011,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08A,Ordures ménagères résiduelles,127745.91915,555999,229.75926
+2011,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08B,"Emballages, journaux-magazines",33919.83294,555999,61.007003
+2011,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08C,Verre,20184.36913,555999,36.302887
+2011,27,Bourgogne-Franche-Comté,89,Yonne,08A,Ordures ménagères résiduelles,97730.64235,342463,285.37577
+2011,27,Bourgogne-Franche-Comté,89,Yonne,08B,"Emballages, journaux-magazines",13906.81538,342463,40.608227
+2011,27,Bourgogne-Franche-Comté,89,Yonne,08C,Verre,11572.80319,342463,33.792857
+2011,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08A,Ordures ménagères résiduelles,40247.70478,143348,280.76921
+2011,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08B,"Emballages, journaux-magazines",6672.22026,143348,46.545611
+2011,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08C,Verre,4456.29485,143348,31.087248
+2011,53,Bretagne,22,Cotes-d'Armor,08A,Ordures ménagères résiduelles,149990.85373,594375,252.350542
+2011,53,Bretagne,22,Cotes-d'Armor,08B,"Emballages, journaux-magazines",30014.22952,594375,50.497126
+2011,53,Bretagne,22,Cotes-d'Armor,08C,Verre,29813.85152,594375,50.160002
+2011,53,Bretagne,29,Finistère,08A,Ordures ménagères résiduelles,239257.77184,899870,265.880373
+2011,53,Bretagne,29,Finistère,08B,"Emballages, journaux-magazines",52010.41656,899870,57.7977
+2011,53,Bretagne,29,Finistère,08C,Verre,36743.77526,899870,40.832314
+2011,53,Bretagne,35,Ille-et-Vilaine,08A,Ordures ménagères résiduelles,213232.89773,996439,213.994933
+2011,53,Bretagne,35,Ille-et-Vilaine,08B,"Emballages, journaux-magazines",51681.12931,996439,51.865823
+2011,53,Bretagne,35,Ille-et-Vilaine,08C,Verre,38957.53511,996439,39.096758
+2011,53,Bretagne,56,Morbihan,08A,Ordures ménagères résiduelles,170938.7173,727083,235.102068
+2011,53,Bretagne,56,Morbihan,08B,"Emballages, journaux-magazines",40364.56397,727083,55.515758
+2011,53,Bretagne,56,Morbihan,08C,Verre,36740.3915,727083,50.53122
+2011,53,Bretagne,56,Morbihan,08D,Déchets de produits alimentaires,7588,727083,10.436222
+2011,24,Centre-Val de Loire,18,Cher,08A,Ordures ménagères résiduelles,71088.77232,311694,228.072315
+2011,24,Centre-Val de Loire,18,Cher,08B,"Emballages, journaux-magazines",15082.95504,311694,48.390264
+2011,24,Centre-Val de Loire,18,Cher,08C,Verre,11926.4737,311694,38.263404
+2011,24,Centre-Val de Loire,28,Eure-et-Loir,08A,Ordures ménagères résiduelles,118872.79384,430416,276.181168
+2011,24,Centre-Val de Loire,28,Eure-et-Loir,08B,"Emballages, journaux-magazines",19574.02848,430416,45.477
+2011,24,Centre-Val de Loire,28,Eure-et-Loir,08C,Verre,12894.70146,430416,29.958694
+2011,24,Centre-Val de Loire,36,Indre,08A,Ordures ménagères résiduelles,62044.0839,230175,269.551792
+2011,24,Centre-Val de Loire,36,Indre,08B,"Emballages, journaux-magazines",8734.12095,230175,37.945567
+2011,24,Centre-Val de Loire,36,Indre,08C,Verre,9501.52624,230175,41.279575
+2011,24,Centre-Val de Loire,37,Indre-et-Loire,08A,Ordures ménagères résiduelles,137783.3309,593683,232.082324
+2011,24,Centre-Val de Loire,37,Indre-et-Loire,08B,"Emballages, journaux-magazines",34014.57952,593683,57.294178
+2011,24,Centre-Val de Loire,37,Indre-et-Loire,08C,Verre,21773.32676,593683,36.675004
+2011,24,Centre-Val de Loire,41,Loir-et-Cher,08A,Ordures ménagères résiduelles,80535.92788,331280,243.105312
+2011,24,Centre-Val de Loire,41,Loir-et-Cher,08B,"Emballages, journaux-magazines",14232.36512,331280,42.961739
+2011,24,Centre-Val de Loire,41,Loir-et-Cher,08C,Verre,12276.03032,331280,37.056358
+2011,24,Centre-Val de Loire,45,Loiret,08A,Ordures ménagères résiduelles,164281.27637,659587,249.06688
+2011,24,Centre-Val de Loire,45,Loiret,08B,"Emballages, journaux-magazines",29137.03354,659587,44.174663
+2011,24,Centre-Val de Loire,45,Loiret,08C,Verre,18184.49946,659587,27.569523
+2011,94,Corse,2A,Corse-du-Sud,08A,Ordures ménagères résiduelles,69796.43393,145846,478.562551
+2011,94,Corse,2A,Corse-du-Sud,08B,"Emballages, journaux-magazines",1618.30055,145846,11.095954
+2011,94,Corse,2A,Corse-du-Sud,08C,Verre,3016.30216,145846,20.681418
+2011,94,Corse,2B,Haute-Corse,08A,Ordures ménagères résiduelles,84837.92099,168640,503.071163
+2011,94,Corse,2B,Haute-Corse,08B,"Emballages, journaux-magazines",5136.62232,168640,30.459098
+2011,94,Corse,2B,Haute-Corse,08C,Verre,5582.76851,168640,33.104651
+2011,97,Dom-Com,971,Guadeloupe,08A,Ordures ménagères résiduelles,167805.45224,404635,414.708199
+2011,97,Dom-Com,971,Guadeloupe,08B,"Emballages, journaux-magazines",2079.94192,404635,5.140291
+2011,97,Dom-Com,971,Guadeloupe,08C,Verre,2408.69637,404635,5.952763
+2011,97,Dom-Com,972,Martinique,08A,Ordures ménagères résiduelles,134911.36,392291,343.906334
+2011,97,Dom-Com,972,Martinique,08B,"Emballages, journaux-magazines",2657.24,392291,6.773645
+2011,97,Dom-Com,972,Martinique,08C,Verre,1645.66,392291,4.194998
+2011,97,Dom-Com,972,Martinique,08D,Déchets de produits alimentaires,1987.06,392291,5.06527
+2011,97,Dom-Com,973,Guyane,08A,Ordures ménagères résiduelles,92260.23275,237549,388.384008
+2011,97,Dom-Com,973,Guyane,08B,"Emballages, journaux-magazines",261.78,237549,1.102004
+2011,97,Dom-Com,973,Guyane,08C,Verre,976.21599,237549,4.109535
+2011,97,Dom-Com,974,Réunion,08A,Ordures ménagères résiduelles,260899.39584,828581,314.874943
+2011,97,Dom-Com,974,Réunion,08B,"Emballages, journaux-magazines",30227.45299,828581,36.480987
+2011,97,Dom-Com,974,Réunion,08C,Verre,8581.91792,828581,10.357367
+2011,44,Grand-Est,08,Ardennes,08A,Ordures ménagères résiduelles,77925.78956,283110,275.249159
+2011,44,Grand-Est,08,Ardennes,08B,"Emballages, journaux-magazines",15223.76534,283110,53.773322
+2011,44,Grand-Est,08,Ardennes,08C,Verre,9886.35332,283110,34.920537
+2011,44,Grand-Est,10,Aube,08A,Ordures ménagères résiduelles,86635.2234,303997,284.987099
+2011,44,Grand-Est,10,Aube,08B,"Emballages, journaux-magazines",13730.41657,303997,45.166289
+2011,44,Grand-Est,10,Aube,08C,Verre,13122.13101,303997,43.16533
+2011,44,Grand-Est,51,Marne,08A,Ordures ménagères résiduelles,145632.03283,566571,257.041099
+2011,44,Grand-Est,51,Marne,08B,"Emballages, journaux-magazines",29777.46507,566571,52.55734
+2011,44,Grand-Est,51,Marne,08C,Verre,22420.35346,566571,39.57201
+2011,44,Grand-Est,52,Haute-Marne,08A,Ordures ménagères résiduelles,48031.654,182375,263.367533
+2011,44,Grand-Est,52,Haute-Marne,08B,"Emballages, journaux-magazines",8712.96004,182375,47.774969
+2011,44,Grand-Est,52,Haute-Marne,08C,Verre,5259.14584,182375,28.836988
+2011,44,Grand-Est,54,Meurthe-et-Moselle,08A,Ordures ménagères résiduelles,203616.52558,733124,277.73818
+2011,44,Grand-Est,54,Meurthe-et-Moselle,08B,"Emballages, journaux-magazines",34809.16933,733124,47.480602
+2011,44,Grand-Est,54,Meurthe-et-Moselle,08C,Verre,20688.22687,733124,28.219273
+2011,44,Grand-Est,55,Meuse,08A,Ordures ménagères résiduelles,48945.93972,193557,252.876102
+2011,44,Grand-Est,55,Meuse,08B,"Emballages, journaux-magazines",8496.08858,193557,43.894504
+2011,44,Grand-Est,55,Meuse,08C,Verre,6510.70157,193557,33.637127
+2011,44,Grand-Est,57,Moselle,08A,Ordures ménagères résiduelles,293176.22088,1045146,280.512216
+2011,44,Grand-Est,57,Moselle,08B,"Emballages, journaux-magazines",59794.30166,1045146,57.211434
+2011,44,Grand-Est,57,Moselle,08C,Verre,31643.69525,1045146,30.276818
+2011,44,Grand-Est,57,Moselle,08D,Déchets de produits alimentaires,874.81013,1045146,0.837021
+2011,44,Grand-Est,67,Bas-Rhin,08A,Ordures ménagères résiduelles,276653.98663,1099269,251.67087
+2011,44,Grand-Est,67,Bas-Rhin,08B,"Emballages, journaux-magazines",57215.26657,1099269,52.048467
+2011,44,Grand-Est,67,Bas-Rhin,08C,Verre,32104.12583,1099269,29.204976
+2011,44,Grand-Est,67,Bas-Rhin,08D,Déchets de produits alimentaires,4.51987,1099269,0.004111
+2011,44,Grand-Est,68,Haut-Rhin,08A,Ordures ménagères résiduelles,176887.92713,753056,234.893456
+2011,44,Grand-Est,68,Haut-Rhin,08B,"Emballages, journaux-magazines",38278.19861,753056,50.83048
+2011,44,Grand-Est,68,Haut-Rhin,08C,Verre,26015.19482,753056,34.546162
+2011,44,Grand-Est,68,Haut-Rhin,08D,Déchets de produits alimentaires,1142.86,753056,1.517629
+2011,44,Grand-Est,88,Vosges,08A,Ordures ménagères résiduelles,99566.47513,378830,262.826268
+2011,44,Grand-Est,88,Vosges,08B,"Emballages, journaux-magazines",16326.7457,378830,43.097816
+2011,44,Grand-Est,88,Vosges,08C,Verre,15594.70469,378830,41.165442
+2011,32,Hauts-de-France,02,Aisne,08A,Ordures ménagères résiduelles,136441.35023,541302,252.061419
+2011,32,Hauts-de-France,02,Aisne,08B,"Emballages, journaux-magazines",30037.34095,541302,55.49091
+2011,32,Hauts-de-France,02,Aisne,08C,Verre,20345.43893,541302,37.586114
+2011,32,Hauts-de-France,02,Aisne,08D,Déchets de produits alimentaires,3796,541302,7.012721
+2011,32,Hauts-de-France,59,Nord,08A,Ordures ménagères résiduelles,687770.86286,2579208,266.659712
+2011,32,Hauts-de-France,59,Nord,08B,"Emballages, journaux-magazines",184935.95021,2579208,71.702611
+2011,32,Hauts-de-France,59,Nord,08C,Verre,91373.05887,2579208,35.426789
+2011,32,Hauts-de-France,59,Nord,08D,Déchets de produits alimentaires,7832,2579208,3.036591
+2011,32,Hauts-de-France,60,Oise,08A,Ordures ménagères résiduelles,242394.34,805642,300.871032
+2011,32,Hauts-de-France,60,Oise,08B,"Emballages, journaux-magazines",36987.03,805642,45.910007
+2011,32,Hauts-de-France,60,Oise,08C,Verre,22397.45,805642,27.800747
+2011,32,Hauts-de-France,62,Pas-de-Calais,08A,Ordures ménagères résiduelles,440185.86824,1462807,300.918623
+2011,32,Hauts-de-France,62,Pas-de-Calais,08B,"Emballages, journaux-magazines",96624.36784,1462807,66.054078
+2011,32,Hauts-de-France,62,Pas-de-Calais,08C,Verre,62574.47571,1462807,42.776986
+2011,32,Hauts-de-France,80,Somme,08A,Ordures ménagères résiduelles,166040.26607,571211,290.681142
+2011,32,Hauts-de-France,80,Somme,08B,"Emballages, journaux-magazines",25685.73849,571211,44.967163
+2011,32,Hauts-de-France,80,Somme,08C,Verre,22776.09819,571211,39.873353
+2011,32,Hauts-de-France,80,Somme,08D,Déchets de produits alimentaires,638.62,571211,1.11801
+2011,11,Ile-de-France,75,Paris,08A,Ordures ménagères résiduelles,833399,2249975,370.403671
+2011,11,Ile-de-France,75,Paris,08B,"Emballages, journaux-magazines",82246.82,2249975,36.554548
+2011,11,Ile-de-France,75,Paris,08C,Verre,65366.4,2249975,29.052056
+2011,11,Ile-de-France,77,Seine-et-Marne,08A,Ordures ménagères résiduelles,401604.37842,1338427,300.056991
+2011,11,Ile-de-France,77,Seine-et-Marne,08B,"Emballages, journaux-magazines",53289.36082,1338427,39.814917
+2011,11,Ile-de-France,77,Seine-et-Marne,08C,Verre,30662.24048,1338427,22.909161
+2011,11,Ile-de-France,78,Yvelines,08A,Ordures ménagères résiduelles,378700.89179,1413635,267.891564
+2011,11,Ile-de-France,78,Yvelines,08B,"Emballages, journaux-magazines",59217.96632,1413635,41.890563
+2011,11,Ile-de-France,78,Yvelines,08C,Verre,33958.5051,1413635,24.022116
+2011,11,Ile-de-France,91,Essonne,08A,Ordures ménagères résiduelles,336382.56437,1225191,274.555203
+2011,11,Ile-de-France,91,Essonne,08B,"Emballages, journaux-magazines",51611.79589,1225191,42.12551
+2011,11,Ile-de-France,91,Essonne,08C,Verre,25418.89726,1225191,20.746885
+2011,11,Ile-de-France,92,Hauts-de-seine,08A,Ordures ménagères résiduelles,467951.21907,1581628,295.866802
+2011,11,Ile-de-France,92,Hauts-de-seine,08B,"Emballages, journaux-magazines",53782.77949,1581628,34.004696
+2011,11,Ile-de-France,92,Hauts-de-seine,08C,Verre,27771.23946,1581628,17.558641
+2011,11,Ile-de-France,93,Seine-Saint-Denis,08A,Ordures ménagères résiduelles,492849.65058,1529928,322.139114
+2011,11,Ile-de-France,93,Seine-Saint-Denis,08B,"Emballages, journaux-magazines",35213.03139,1529928,23.016136
+2011,11,Ile-de-France,93,Seine-Saint-Denis,08C,Verre,15812.92082,1529928,10.335728
+2011,11,Ile-de-France,94,Val-de-Marne,08A,Ordures ménagères résiduelles,378327.52301,1333702,283.667208
+2011,11,Ile-de-France,94,Val-de-Marne,08B,"Emballages, journaux-magazines",46357.59055,1333702,34.758582
+2011,11,Ile-de-France,94,Val-de-Marne,08C,Verre,22244.95191,1333702,16.679102
+2011,11,Ile-de-France,95,Val-d'Oise,08A,Ordures ménagères résiduelles,359975.5132,1180365,304.96966
+2011,11,Ile-de-France,95,Val-d'Oise,08B,"Emballages, journaux-magazines",38433.61867,1180365,32.560791
+2011,11,Ile-de-France,95,Val-d'Oise,08C,Verre,20988.83696,1180365,17.781649
+2011,28,Normandie,14,Calvados,08A,Ordures ménagères résiduelles,202616.48427,685262,295.677396
+2011,28,Normandie,14,Calvados,08B,"Emballages, journaux-magazines",38290.64932,685262,55.877386
+2011,28,Normandie,14,Calvados,08C,Verre,24094.63766,685262,35.161204
+2011,28,Normandie,27,Eure,08A,Ordures ménagères résiduelles,163120.15177,588111,277.362864
+2011,28,Normandie,27,Eure,08B,"Emballages, journaux-magazines",25031.37899,588111,42.562337
+2011,28,Normandie,27,Eure,08C,Verre,17763.18104,588111,30.203789
+2011,28,Normandie,50,Manche,08A,Ordures ménagères résiduelles,144944.91073,499531,290.161993
+2011,28,Normandie,50,Manche,08B,"Emballages, journaux-magazines",29482.34336,499531,59.020047
+2011,28,Normandie,50,Manche,08C,Verre,21653.35803,499531,43.347375
+2011,28,Normandie,61,Orne,08A,Ordures ménagères résiduelles,74188.54909,290891,255.038997
+2011,28,Normandie,61,Orne,08B,"Emballages, journaux-magazines",12524.74545,290891,43.05649
+2011,28,Normandie,61,Orne,08C,Verre,9322.70561,290891,32.048793
+2011,28,Normandie,76,Seine-Maritime,08A,Ordures ménagères résiduelles,364786.38578,1251282,291.530115
+2011,28,Normandie,76,Seine-Maritime,08B,"Emballages, journaux-magazines",52057.41186,1251282,41.603261
+2011,28,Normandie,76,Seine-Maritime,08C,Verre,33464.65188,1251282,26.744292
+2011,75,Nouvelle-Aquitaine,16,Charente,08A,Ordures ménagères résiduelles,77082.1,352705,218.545526
+2011,75,Nouvelle-Aquitaine,16,Charente,08B,"Emballages, journaux-magazines",21908,352705,62.114231
+2011,75,Nouvelle-Aquitaine,16,Charente,08C,Verre,11600.3,352705,32.889525
+2011,75,Nouvelle-Aquitaine,16,Charente,08D,Déchets de produits alimentaires,228,352705,0.646432
+2011,75,Nouvelle-Aquitaine,17,Charente-Maritime,08A,Ordures ménagères résiduelles,192256.8,625682,307.27558
+2011,75,Nouvelle-Aquitaine,17,Charente-Maritime,08B,"Emballages, journaux-magazines",38674.23,625682,61.811319
+2011,75,Nouvelle-Aquitaine,17,Charente-Maritime,08C,Verre,27126.27,625682,43.354723
+2011,75,Nouvelle-Aquitaine,19,Corrèze,08A,Ordures ménagères résiduelles,70216.40785,242454,289.607133
+2011,75,Nouvelle-Aquitaine,19,Corrèze,08B,"Emballages, journaux-magazines",8570.14168,242454,35.347495
+2011,75,Nouvelle-Aquitaine,19,Corrèze,08C,Verre,6792.51129,242454,28.01567
+2011,75,Nouvelle-Aquitaine,23,Creuse,08A,Ordures ménagères résiduelles,29430.13293,122560,240.128369
+2011,75,Nouvelle-Aquitaine,23,Creuse,08B,"Emballages, journaux-magazines",6367.95588,122560,51.957864
+2011,75,Nouvelle-Aquitaine,23,Creuse,08C,Verre,4607.80567,122560,37.596325
+2011,75,Nouvelle-Aquitaine,24,Dordogne,08A,Ordures ménagères résiduelles,110203.55497,415168,265.443278
+2011,75,Nouvelle-Aquitaine,24,Dordogne,08B,"Emballages, journaux-magazines",17283.00907,415168,41.628952
+2011,75,Nouvelle-Aquitaine,24,Dordogne,08C,Verre,14800.7471,415168,35.650019
+2011,75,Nouvelle-Aquitaine,24,Dordogne,08D,Déchets de produits alimentaires,36,415168,0.086711
+2011,75,Nouvelle-Aquitaine,33,Gironde,08A,Ordures ménagères résiduelles,413195.97818,1463662,282.302866
+2011,75,Nouvelle-Aquitaine,33,Gironde,08B,"Emballages, journaux-magazines",86747.42427,1463662,59.267388
+2011,75,Nouvelle-Aquitaine,33,Gironde,08C,Verre,45084.79448,1463662,30.802736
+2011,75,Nouvelle-Aquitaine,40,Landes,08A,Ordures ménagères résiduelles,151866.81976,387929,391.480966
+2011,75,Nouvelle-Aquitaine,40,Landes,08B,"Emballages, journaux-magazines",16500.39548,387929,42.534575
+2011,75,Nouvelle-Aquitaine,40,Landes,08C,Verre,14912.63678,387929,38.441665
+2011,75,Nouvelle-Aquitaine,40,Landes,08D,Déchets de produits alimentaires,196.41,387929,0.506303
+2011,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08A,Ordures ménagères résiduelles,90790.65175,330866,274.403086
+2011,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08B,"Emballages, journaux-magazines",14275.80608,330866,43.14679
+2011,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08C,Verre,9423.4187,330866,28.481073
+2011,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08A,Ordures ménagères résiduelles,190092.65688,656608,289.507067
+2011,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08B,"Emballages, journaux-magazines",26002.69175,656608,39.601545
+2011,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08C,Verre,21363.76405,656608,32.536557
+2011,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08A,Ordures ménagères résiduelles,75841.9,370939,204.459223
+2011,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08B,"Emballages, journaux-magazines",19080.1,370939,51.437298
+2011,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08C,Verre,13128.5,370939,35.392611
+2011,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08D,Déchets de produits alimentaires,190,370939,0.512213
+2011,75,Nouvelle-Aquitaine,86,Vienne,08A,Ordures ménagères résiduelles,98400.76,428447,229.668453
+2011,75,Nouvelle-Aquitaine,86,Vienne,08B,"Emballages, journaux-magazines",21845.14866,428447,50.986816
+2011,75,Nouvelle-Aquitaine,86,Vienne,08C,Verre,15059.47713,428447,35.148984
+2011,75,Nouvelle-Aquitaine,87,Haute-Vienne,08A,Ordures ménagères résiduelles,90529.03806,376058,240.731584
+2011,75,Nouvelle-Aquitaine,87,Haute-Vienne,08B,"Emballages, journaux-magazines",25177.62,376058,66.951427
+2011,75,Nouvelle-Aquitaine,87,Haute-Vienne,08C,Verre,11003.18001,376058,29.259263
+2011,76,Occitanie,09,Ariège,08B,"Emballages, journaux-magazines",7893.60686,152286,51.834094
+2011,76,Occitanie,09,Ariège,08C,Verre,4741.31005,152286,31.134247
+2013,76,Occitanie,09,Ariège,08A,Ordures ménagères résiduelles,45725.99632,152684,299.481257
+2011,76,Occitanie,11,Aude,08A,Ordures ménagères résiduelles,122543.97047,359967,340.431124
+2011,76,Occitanie,11,Aude,08B,"Emballages, journaux-magazines",16628.32866,359967,46.194036
+2011,76,Occitanie,11,Aude,08C,Verre,10614.06724,359967,29.486223
+2011,76,Occitanie,12,Aveyron,08A,Ordures ménagères résiduelles,65080.421,275813,235.958497
+2011,76,Occitanie,12,Aveyron,08B,"Emballages, journaux-magazines",15076.51663,275813,54.662095
+2011,76,Occitanie,12,Aveyron,08C,Verre,8111.76889,275813,29.410393
+2011,76,Occitanie,30,Gard,08A,Ordures ménagères résiduelles,222137.07017,718357,309.229352
+2011,76,Occitanie,30,Gard,08B,"Emballages, journaux-magazines",37601.17233,718357,52.343294
+2011,76,Occitanie,30,Gard,08C,Verre,21139.75732,718357,29.427926
+2011,76,Occitanie,31,Haute-Garonne,08A,Ordures ménagères résiduelles,352016.15542,1260226,279.327799
+2011,76,Occitanie,31,Haute-Garonne,08B,"Emballages, journaux-magazines",61104.62038,1260226,48.487033
+2011,76,Occitanie,31,Haute-Garonne,08C,Verre,35875.05114,1260226,28.467156
+2011,76,Occitanie,32,Gers,08A,Ordures ménagères résiduelles,48682.27741,188893,257.724094
+2011,76,Occitanie,32,Gers,08B,"Emballages, journaux-magazines",8836.12779,188893,46.778481
+2011,76,Occitanie,32,Gers,08C,Verre,6658.80063,188893,35.251706
+2011,76,Occitanie,34,Hérault,08A,Ordures ménagères résiduelles,348589.85816,1062036,328.227911
+2011,76,Occitanie,34,Hérault,08B,"Emballages, journaux-magazines",53907.51737,1062036,50.758653
+2011,76,Occitanie,34,Hérault,08C,Verre,29445.65167,1062036,27.725662
+2011,76,Occitanie,34,Hérault,08D,Déchets de produits alimentaires,7207,1062036,6.786022
+2011,76,Occitanie,46,Lot,08A,Ordures ménagères résiduelles,42013.36031,174754,240.414298
+2011,76,Occitanie,46,Lot,08B,"Emballages, journaux-magazines",14587.78659,174754,83.476124
+2011,76,Occitanie,46,Lot,08C,Verre,6586.7795,174754,37.691723
+2011,76,Occitanie,48,Lozère,08A,Ordures ménagères résiduelles,21688.65,77156,281.101275
+2011,76,Occitanie,48,Lozère,08B,"Emballages, journaux-magazines",3284.03787,77156,42.563609
+2011,76,Occitanie,48,Lozère,08C,Verre,2356.88635,77156,30.547026
+2011,76,Occitanie,65,Hautes-Pyrénées,08A,Ordures ménagères résiduelles,71777.12389,229228,313.125464
+2011,76,Occitanie,65,Hautes-Pyrénées,08B,"Emballages, journaux-magazines",12494.4694,229228,54.506733
+2011,76,Occitanie,65,Hautes-Pyrénées,08C,Verre,6888.10578,229228,30.049146
+2011,76,Occitanie,66,Pyrénées-Orientales,08A,Ordures ménagères résiduelles,164274.18633,452530,363.012808
+2011,76,Occitanie,66,Pyrénées-Orientales,08B,"Emballages, journaux-magazines",27074.47,452530,59.829116
+2011,76,Occitanie,66,Pyrénées-Orientales,08C,Verre,13392.03093,452530,29.593686
+2011,76,Occitanie,81,Tarn,08A,Ordures ménagères résiduelles,96771.9184,377675,256.23067
+2011,76,Occitanie,81,Tarn,08B,"Emballages, journaux-magazines",20240.26359,377675,53.591748
+2011,76,Occitanie,81,Tarn,08C,Verre,10433.65542,377675,27.626015
+2011,76,Occitanie,82,Tarn-et-Garonne,08A,Ordures ménagères résiduelles,64433.69872,244545,263.484016
+2011,76,Occitanie,82,Tarn-et-Garonne,08B,"Emballages, journaux-magazines",15493.43675,244545,63.356178
+2011,76,Occitanie,82,Tarn-et-Garonne,08C,Verre,6609.18744,244545,27.026467
+2011,93,PACA,04,Alpes-de-Haute-Provence,08A,Ordures ménagères résiduelles,61117.39423,160959,379.70784
+2011,93,PACA,04,Alpes-de-Haute-Provence,08B,"Emballages, journaux-magazines",5362.83623,160959,33.318026
+2011,93,PACA,04,Alpes-de-Haute-Provence,08C,Verre,4101.82247,160959,25.483647
+2011,93,PACA,05,Hautes-Alpes,08A,Ordures ménagères résiduelles,49239.7974,138605,355.252677
+2011,93,PACA,05,Hautes-Alpes,08B,"Emballages, journaux-magazines",7171.16548,138605,51.738144
+2011,93,PACA,05,Hautes-Alpes,08C,Verre,5107.37951,138605,36.84845
+2011,93,PACA,06,Alpes-Maritimes,08A,Ordures ménagères résiduelles,492445.17,1081244,455.443146
+2011,93,PACA,06,Alpes-Maritimes,08B,"Emballages, journaux-magazines",45918.53,1081244,42.46824
+2011,93,PACA,06,Alpes-Maritimes,08C,Verre,25390.07,1081244,23.482275
+2011,93,PACA,13,Bouches-du-Rhône,08A,Ordures ménagères résiduelles,789427.15557,1975896,399.528697
+2011,93,PACA,13,Bouches-du-Rhône,08B,"Emballages, journaux-magazines",54614.84162,1975896,27.640544
+2011,93,PACA,13,Bouches-du-Rhône,08C,Verre,28105.7945,1975896,14.224328
+2011,93,PACA,83,Var,08A,Ordures ménagères résiduelles,490318.10314,1012735,484.152422
+2011,93,PACA,83,Var,08B,"Emballages, journaux-magazines",39550.65538,1012735,39.053311
+2011,93,PACA,83,Var,08C,Verre,23870.92446,1012735,23.57075
+2011,93,PACA,84,Vaucluse,08A,Ordures ménagères résiduelles,201187.42423,546630,368.050462
+2011,93,PACA,84,Vaucluse,08B,"Emballages, journaux-magazines",18641.2471,546630,34.102129
+2011,93,PACA,84,Vaucluse,08C,Verre,13055.58215,546630,23.883764
+2011,52,Pays de la Loire,44,Loire-Atlantique,08A,Ordures ménagères résiduelles,298456.97041,1296364,230.226209
+2011,52,Pays de la Loire,44,Loire-Atlantique,08B,"Emballages, journaux-magazines",68718.18063,1296364,53.008399
+2011,52,Pays de la Loire,44,Loire-Atlantique,08C,Verre,48575.19662,1296364,37.470337
+2011,52,Pays de la Loire,49,Maine-et-Loire,08A,Ordures ménagères résiduelles,143179.06268,790343,181.160664
+2011,52,Pays de la Loire,49,Maine-et-Loire,08B,"Emballages, journaux-magazines",44005.943,790343,55.67955
+2011,52,Pays de la Loire,49,Maine-et-Loire,08C,Verre,29418.24523,790343,37.222124
+2011,52,Pays de la Loire,53,Mayenne,08A,Ordures ménagères résiduelles,64514.21631,307031,210.122809
+2011,52,Pays de la Loire,53,Mayenne,08B,"Emballages, journaux-magazines",14326.58318,307031,46.661682
+2011,52,Pays de la Loire,53,Mayenne,08C,Verre,10090.47838,307031,32.864689
+2011,52,Pays de la Loire,72,Sarthe,08A,Ordures ménagères résiduelles,124999.95893,565718,220.958072
+2011,52,Pays de la Loire,72,Sarthe,08B,"Emballages, journaux-magazines",28269.94997,565718,49.971805
+2011,52,Pays de la Loire,72,Sarthe,08C,Verre,19572.37592,565718,34.597407
+2011,52,Pays de la Loire,85,Vendée,08A,Ordures ménagères résiduelles,143705.92114,641657,223.960653
+2011,52,Pays de la Loire,85,Vendée,08B,"Emballages, journaux-magazines",37623.37513,641657,58.634714
+2011,52,Pays de la Loire,85,Vendée,08C,Verre,31463.89138,641657,49.035374
+2013,84,Auvergne-Rhône-Alpes,01,Ain,08A,Ordures ménagères résiduelles,125932.37843,619497,203.281659
+2013,84,Auvergne-Rhône-Alpes,01,Ain,08B,"Emballages, journaux-magazines",26599.22249,619497,42.936805
+2013,84,Auvergne-Rhône-Alpes,01,Ain,08C,Verre,21927.3493,619497,35.395408
+2013,84,Auvergne-Rhône-Alpes,03,Allier,08A,Ordures ménagères résiduelles,94243.7978,343431,274.418435
+2013,84,Auvergne-Rhône-Alpes,03,Allier,08B,"Emballages, journaux-magazines",15261.85762,343431,44.43937
+2013,84,Auvergne-Rhône-Alpes,03,Allier,08C,Verre,9672.39037,343431,28.163999
+2013,84,Auvergne-Rhône-Alpes,03,Allier,08D,Déchets de produits alimentaires,8.4,343431,0.024459
+2013,84,Auvergne-Rhône-Alpes,07,Ardèche,08A,Ordures ménagères résiduelles,83497.07188,320379,260.619678
+2013,84,Auvergne-Rhône-Alpes,07,Ardèche,08B,"Emballages, journaux-magazines",12455.99789,320379,38.878946
+2013,84,Auvergne-Rhône-Alpes,07,Ardèche,08C,Verre,10976.74199,320379,34.261739
+2013,84,Auvergne-Rhône-Alpes,15,Cantal,08A,Ordures ménagères résiduelles,39395.60737,147035,267.933535
+2013,84,Auvergne-Rhône-Alpes,15,Cantal,08B,"Emballages, journaux-magazines",6201.86236,147035,42.179497
+2013,84,Auvergne-Rhône-Alpes,15,Cantal,08C,Verre,4921.53942,147035,33.47189
+2013,84,Auvergne-Rhône-Alpes,26,Drôme,08A,Ordures ménagères résiduelles,127278.75373,494712,257.278484
+2013,84,Auvergne-Rhône-Alpes,26,Drôme,08B,"Emballages, journaux-magazines",19649.56191,494712,39.719194
+2013,84,Auvergne-Rhône-Alpes,26,Drôme,08C,Verre,13894.14066,494712,28.085311
+2013,84,Auvergne-Rhône-Alpes,38,Isère,08A,Ordures ménagères résiduelles,275259.46594,1235387,222.812338
+2013,84,Auvergne-Rhône-Alpes,38,Isère,08B,"Emballages, journaux-magazines",60853.98961,1235387,49.259049
+2013,84,Auvergne-Rhône-Alpes,38,Isère,08C,Verre,33527.95098,1235387,27.139633
+2013,84,Auvergne-Rhône-Alpes,38,Isère,08D,Déchets de produits alimentaires,1852.38,1235387,1.499432
+2013,84,Auvergne-Rhône-Alpes,42,Loire,08A,Ordures ménagères résiduelles,176042.49091,756715,232.640414
+2013,84,Auvergne-Rhône-Alpes,42,Loire,08B,"Emballages, journaux-magazines",32571.64518,756715,43.043477
+2013,84,Auvergne-Rhône-Alpes,42,Loire,08C,Verre,17804.22644,756715,23.528311
+2013,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08A,Ordures ménagères résiduelles,51833.97265,226203,229.148033
+2013,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08B,"Emballages, journaux-magazines",11037.51694,226203,48.794741
+2013,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08C,Verre,6999.55399,226203,30.943683
+2013,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08A,Ordures ménagères résiduelles,146400.01669,640999,228.393518
+2013,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08B,"Emballages, journaux-magazines",40058.61998,640999,62.494044
+2013,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08C,Verre,17577.74662,640999,27.422424
+2013,84,Auvergne-Rhône-Alpes,69,Rhône,08A,Ordures ménagères résiduelles,401225.05026,1779845,225.426961
+2013,84,Auvergne-Rhône-Alpes,69,Rhône,08B,"Emballages, journaux-magazines",81924.88897,1779845,46.029226
+2013,84,Auvergne-Rhône-Alpes,69,Rhône,08C,Verre,40615.11304,1779845,22.819466
+2013,84,Auvergne-Rhône-Alpes,73,Savoie,08A,Ordures ménagères résiduelles,130554.75168,423715,308.119258
+2013,84,Auvergne-Rhône-Alpes,73,Savoie,08B,"Emballages, journaux-magazines",23490.26526,423715,55.438833
+2013,84,Auvergne-Rhône-Alpes,73,Savoie,08C,Verre,20112.8065,423715,47.46777
+2013,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08A,Ordures ménagères résiduelles,231335.99718,769677,300.56244
+2013,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08B,"Emballages, journaux-magazines",32991.19026,769677,42.863682
+2013,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08C,Verre,32363.1427,769677,42.047693
+2013,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08A,Ordures ménagères résiduelles,123566.3191,529761,233.24918
+2013,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08B,"Emballages, journaux-magazines",32500.60115,529761,61.349554
+2013,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08C,Verre,19820.54382,529761,37.414124
+2013,27,Bourgogne-Franche-Comté,25,Doubs,08A,Ordures ménagères résiduelles,105883.56395,533320,198.536645
+2013,27,Bourgogne-Franche-Comté,25,Doubs,08B,"Emballages, journaux-magazines",29382.17575,533320,55.092956
+2013,27,Bourgogne-Franche-Comté,25,Doubs,08C,Verre,20642.57818,533320,38.705801
+2013,27,Bourgogne-Franche-Comté,39,Jura,08A,Ordures ménagères résiduelles,51156.13429,260502,196.375207
+2013,27,Bourgogne-Franche-Comté,39,Jura,08B,"Emballages, journaux-magazines",16943.63139,260502,65.042231
+2013,27,Bourgogne-Franche-Comté,39,Jura,08C,Verre,11234.04848,260502,43.124615
+2013,27,Bourgogne-Franche-Comté,58,Nièvre,08A,Ordures ménagères résiduelles,43433.84894,215221,201.810459
+2013,27,Bourgogne-Franche-Comté,58,Nièvre,08B,"Emballages, journaux-magazines",7800.59892,215221,36.244599
+2013,27,Bourgogne-Franche-Comté,58,Nièvre,08C,Verre,8772.09568,215221,40.758549
+2013,27,Bourgogne-Franche-Comté,58,Nièvre,08D,Déchets de produits alimentaires,3440.17132,215221,15.984366
+2013,27,Bourgogne-Franche-Comté,70,Haute-Saône,08A,Ordures ménagères résiduelles,38244.30615,238956,160.047482
+2013,27,Bourgogne-Franche-Comté,70,Haute-Saône,08B,"Emballages, journaux-magazines",13217.63272,238956,55.314085
+2013,27,Bourgogne-Franche-Comté,70,Haute-Saône,08C,Verre,10010.63534,238956,41.893216
+2013,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08A,Ordures ménagères résiduelles,118035.02431,556222,212.208478
+2013,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08B,"Emballages, journaux-magazines",29611.73822,556222,53.237265
+2013,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08C,Verre,19432.91492,556222,34.937336
+2013,27,Bourgogne-Franche-Comté,89,Yonne,08A,Ordures ménagères résiduelles,83674.87821,341483,245.033803
+2013,27,Bourgogne-Franche-Comté,89,Yonne,08B,"Emballages, journaux-magazines",16421.83158,341483,48.089748
+2013,27,Bourgogne-Franche-Comté,89,Yonne,08C,Verre,12070.50708,341483,35.347314
+2013,27,Bourgogne-Franche-Comté,89,Yonne,08D,Déchets de produits alimentaires,60.25,341483,0.176436
+2013,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08A,Ordures ménagères résiduelles,32798.60707,144318,227.266225
+2013,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08B,"Emballages, journaux-magazines",8912.27135,144318,61.754398
+2013,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08C,Verre,4373.0183,144318,30.301267
+2013,53,Bretagne,22,Cotes-d'Armor,08A,Ordures ménagères résiduelles,134439.4904,597085,225.159718
+2013,53,Bretagne,22,Cotes-d'Armor,08B,"Emballages, journaux-magazines",33620.08416,597085,56.307031
+2013,53,Bretagne,22,Cotes-d'Armor,08C,Verre,26221.18614,597085,43.915332
+2013,53,Bretagne,22,Cotes-d'Armor,08D,Déchets de produits alimentaires,267,597085,0.447172
+2013,53,Bretagne,29,Finistère,08A,Ordures ménagères résiduelles,223760.13721,903921,247.543908
+2013,53,Bretagne,29,Finistère,08B,"Emballages, journaux-magazines",49663.53988,903921,54.942345
+2013,53,Bretagne,29,Finistère,08C,Verre,37484.08933,903921,41.468324
+2013,53,Bretagne,35,Ille-et-Vilaine,08A,Ordures ménagères résiduelles,201675.09319,1019923,197.735606
+2013,53,Bretagne,35,Ille-et-Vilaine,08B,"Emballages, journaux-magazines",54518.45263,1019923,53.453498
+2013,53,Bretagne,35,Ille-et-Vilaine,08C,Verre,38845.41469,1019923,38.086615
+2013,53,Bretagne,35,Ille-et-Vilaine,08D,Déchets de produits alimentaires,1205,1019923,1.181461
+2013,53,Bretagne,56,Morbihan,08A,Ordures ménagères résiduelles,156787.27529,737778,212.512809
+2013,53,Bretagne,56,Morbihan,08B,"Emballages, journaux-magazines",39734.92317,737778,53.85756
+2013,53,Bretagne,56,Morbihan,08C,Verre,36171.23829,737778,49.027266
+2013,53,Bretagne,56,Morbihan,08D,Déchets de produits alimentaires,7758,737778,10.515358
+2013,24,Centre-Val de Loire,18,Cher,08A,Ordures ménagères résiduelles,65386.99404,311650,209.809061
+2013,24,Centre-Val de Loire,18,Cher,08B,"Emballages, journaux-magazines",14484.81919,311650,46.477841
+2013,24,Centre-Val de Loire,18,Cher,08C,Verre,11313.97948,311650,36.303479
+2013,24,Centre-Val de Loire,18,Cher,08D,Déchets de produits alimentaires,29.34268,311650,0.094152
+2013,24,Centre-Val de Loire,28,Eure-et-Loir,08A,Ordures ménagères résiduelles,108357.68097,432967,250.267759
+2013,24,Centre-Val de Loire,28,Eure-et-Loir,08B,"Emballages, journaux-magazines",17838.69485,432967,41.201049
+2013,24,Centre-Val de Loire,28,Eure-et-Loir,08C,Verre,12761.30523,432967,29.474082
+2013,24,Centre-Val de Loire,36,Indre,08A,Ordures ménagères résiduelles,57561.99867,228091,252.364182
+2013,24,Centre-Val de Loire,36,Indre,08B,"Emballages, journaux-magazines",7797.56504,228091,34.186202
+2013,24,Centre-Val de Loire,36,Indre,08C,Verre,8980.54809,228091,39.372654
+2013,24,Centre-Val de Loire,37,Indre-et-Loire,08A,Ordures ménagères résiduelles,127148.84932,600252,211.825782
+2013,24,Centre-Val de Loire,37,Indre-et-Loire,08B,"Emballages, journaux-magazines",33384.06663,600252,55.616752
+2013,24,Centre-Val de Loire,37,Indre-et-Loire,08C,Verre,21802.96644,600252,36.323021
+2013,24,Centre-Val de Loire,41,Loir-et-Cher,08A,Ordures ménagères résiduelles,76600.95582,332001,230.725075
+2013,24,Centre-Val de Loire,41,Loir-et-Cher,08B,"Emballages, journaux-magazines",13799.62769,332001,41.565018
+2013,24,Centre-Val de Loire,41,Loir-et-Cher,08C,Verre,11859.51436,332001,35.721321
+2013,24,Centre-Val de Loire,45,Loiret,08A,Ordures ménagères résiduelles,151004.47002,665587,226.874127
+2013,24,Centre-Val de Loire,45,Loiret,08B,"Emballages, journaux-magazines",26977.5397,665587,40.531951
+2013,24,Centre-Val de Loire,45,Loiret,08C,Verre,18171.35875,665587,27.301252
+2013,94,Corse,2A,Corse-du-Sud,08A,Ordures ménagères résiduelles,78061.55827,149234,523.081591
+2013,94,Corse,2A,Corse-du-Sud,08B,"Emballages, journaux-magazines",3192.40456,149234,21.391938
+2013,94,Corse,2A,Corse-du-Sud,08C,Verre,4246.8131,149234,28.457409
+2013,94,Corse,2B,Haute-Corse,08A,Ordures ménagères résiduelles,78664.47218,170974,460.096109
+2013,94,Corse,2B,Haute-Corse,08B,"Emballages, journaux-magazines",4085.16666,170974,23.893496
+2013,94,Corse,2B,Haute-Corse,08C,Verre,3999.27424,170974,23.391125
+2013,97,Dom-Com,971,Guadeloupe,08A,Ordures ménagères résiduelles,149726.4,402119,372.34351
+2013,97,Dom-Com,971,Guadeloupe,08B,"Emballages, journaux-magazines",2646.4845,402119,6.581346
+2013,97,Dom-Com,971,Guadeloupe,08C,Verre,2847.13918,402119,7.080339
+2013,97,Dom-Com,972,Martinique,08A,Ordures ménagères résiduelles,127127.17,385551,329.728544
+2013,97,Dom-Com,972,Martinique,08B,"Emballages, journaux-magazines",3618.95,385551,9.386436
+2013,97,Dom-Com,972,Martinique,08C,Verre,2131.4,385551,5.528192
+2013,97,Dom-Com,972,Martinique,08D,Déchets de produits alimentaires,1961,385551,5.086227
+2013,97,Dom-Com,973,Guyane,08A,Ordures ménagères résiduelles,56067.84329,244118,229.67517
+2013,97,Dom-Com,973,Guyane,08B,"Emballages, journaux-magazines",0,244118,0
+2013,97,Dom-Com,973,Guyane,08C,Verre,1212.72307,244118,4.967774
+2013,97,Dom-Com,974,Réunion,08A,Ordures ménagères résiduelles,230868.97,835103,276.455682
+2013,97,Dom-Com,974,Réunion,08B,"Emballages, journaux-magazines",28415.13,835103,34.025898
+2013,97,Dom-Com,974,Réunion,08C,Verre,9482,835103,11.354288
+2013,44,Grand-Est,08,Ardennes,08A,Ordures ménagères résiduelles,70849.50775,280907,252.216953
+2013,44,Grand-Est,08,Ardennes,08B,"Emballages, journaux-magazines",14955.39308,280907,53.239659
+2013,44,Grand-Est,08,Ardennes,08C,Verre,9714.45793,280907,34.58247
+2013,44,Grand-Est,10,Aube,08A,Ordures ménagères résiduelles,79932.0834,306581,260.720929
+2013,44,Grand-Est,10,Aube,08B,"Emballages, journaux-magazines",12683.02714,306581,41.369253
+2013,44,Grand-Est,10,Aube,08C,Verre,10991.84801,306581,35.852998
+2013,44,Grand-Est,51,Marne,08A,Ordures ménagères résiduelles,141085.86637,569999,247.519498
+2013,44,Grand-Est,51,Marne,08B,"Emballages, journaux-magazines",29112.88963,569999,51.075334
+2013,44,Grand-Est,51,Marne,08C,Verre,22001.13498,569999,38.59855
+2013,44,Grand-Est,51,Marne,08D,Déchets de produits alimentaires,447.94,569999,0.785861
+2013,44,Grand-Est,52,Haute-Marne,08A,Ordures ménagères résiduelles,44721.80836,181521,246.372642
+2013,44,Grand-Est,52,Haute-Marne,08B,"Emballages, journaux-magazines",8113.53385,181521,44.697494
+2013,44,Grand-Est,52,Haute-Marne,08C,Verre,6778.20352,181521,37.341153
+2013,44,Grand-Est,54,Meurthe-et-Moselle,08A,Ordures ménagères résiduelles,192676.14022,731004,263.577408
+2013,44,Grand-Est,54,Meurthe-et-Moselle,08B,"Emballages, journaux-magazines",32674.61131,731004,44.698266
+2013,44,Grand-Est,54,Meurthe-et-Moselle,08C,Verre,20003.52131,731004,27.364448
+2013,44,Grand-Est,55,Meuse,08A,Ordures ménagères résiduelles,46357.10365,192094,241.325099
+2013,44,Grand-Est,55,Meuse,08B,"Emballages, journaux-magazines",8426.83544,192094,43.86829
+2013,44,Grand-Est,55,Meuse,08C,Verre,6521.44753,192094,33.949251
+2013,44,Grand-Est,57,Moselle,08A,Ordures ménagères résiduelles,261883.76269,1046873,250.158101
+2013,44,Grand-Est,57,Moselle,08B,"Emballages, journaux-magazines",61864.85377,1046873,59.094898
+2013,44,Grand-Est,57,Moselle,08C,Verre,31962.03832,1046873,30.53096
+2013,44,Grand-Est,57,Moselle,08D,Déchets de produits alimentaires,16522.73364,1046873,15.782939
+2013,44,Grand-Est,67,Bas-Rhin,08A,Ordures ménagères résiduelles,235667.62368,1109460,212.416512
+2013,44,Grand-Est,67,Bas-Rhin,08B,"Emballages, journaux-magazines",62318.76501,1109460,56.170357
+2013,44,Grand-Est,67,Bas-Rhin,08C,Verre,37754.04225,1109460,34.029205
+2013,44,Grand-Est,67,Bas-Rhin,08D,Déchets de produits alimentaires,1368.97636,1109460,1.233912
+2013,44,Grand-Est,68,Haut-Rhin,08A,Ordures ménagères résiduelles,159735.14683,758723,210.531573
+2013,44,Grand-Est,68,Haut-Rhin,08B,"Emballages, journaux-magazines",41386.4067,758723,54.547452
+2013,44,Grand-Est,68,Haut-Rhin,08C,Verre,28369.58321,758723,37.391226
+2013,44,Grand-Est,68,Haut-Rhin,08D,Déchets de produits alimentaires,7278.88,758723,9.593593
+2013,44,Grand-Est,88,Vosges,08A,Ordures ménagères résiduelles,89693.6681,375226,239.039054
+2013,44,Grand-Est,88,Vosges,08B,"Emballages, journaux-magazines",19833.57486,375226,52.857677
+2013,44,Grand-Est,88,Vosges,08C,Verre,15023.61055,375226,40.038831
+2013,32,Hauts-de-France,02,Aisne,08A,Ordures ménagères résiduelles,132392.63594,540067,245.141132
+2013,32,Hauts-de-France,02,Aisne,08B,"Emballages, journaux-magazines",29017.69355,540067,53.729803
+2013,32,Hauts-de-France,02,Aisne,08C,Verre,20068.16236,540067,37.158653
+2013,32,Hauts-de-France,59,Nord,08A,Ordures ménagères résiduelles,650803.79574,2595536,250.739652
+2013,32,Hauts-de-France,59,Nord,08B,"Emballages, journaux-magazines",209018.42386,2595536,80.529965
+2013,32,Hauts-de-France,59,Nord,08C,Verre,52968.86149,2595536,20.407677
+2013,32,Hauts-de-France,59,Nord,08D,Déchets de produits alimentaires,12334.98,2595536,4.752382
+2013,32,Hauts-de-France,60,Oise,08A,Ordures ménagères résiduelles,212453.02,815400,260.550674
+2013,32,Hauts-de-France,60,Oise,08B,"Emballages, journaux-magazines",41753.74,815400,51.20645
+2013,32,Hauts-de-France,60,Oise,08C,Verre,22229.08,815400,27.261564
+2013,32,Hauts-de-France,62,Pas-de-Calais,08A,Ordures ménagères résiduelles,417564.43148,1465205,284.987036
+2013,32,Hauts-de-France,62,Pas-de-Calais,08B,"Emballages, journaux-magazines",90297.23451,1465205,61.627713
+2013,32,Hauts-de-France,62,Pas-de-Calais,08C,Verre,63117.42138,1465205,43.077536
+2013,32,Hauts-de-France,62,Pas-de-Calais,08D,Déchets de produits alimentaires,4969.12,1465205,3.391416
+2013,32,Hauts-de-France,80,Somme,08A,Ordures ménagères résiduelles,158717.1106,571675,277.635213
+2013,32,Hauts-de-France,80,Somme,08B,"Emballages, journaux-magazines",23483.38921,571675,41.078216
+2013,32,Hauts-de-France,80,Somme,08C,Verre,21026.574,571675,36.780642
+2013,32,Hauts-de-France,80,Somme,08D,Déchets de produits alimentaires,1161.55,571675,2.031836
+2013,11,Ile-de-France,75,Paris,08A,Ordures ménagères résiduelles,803409,2229621,360.334334
+2013,11,Ile-de-France,75,Paris,08B,"Emballages, journaux-magazines",77869.7,2229621,34.925083
+2013,11,Ile-de-France,75,Paris,08C,Verre,66890,2229621,30.000614
+2013,11,Ile-de-France,77,Seine-et-Marne,08A,Ordures ménagères résiduelles,395256.66196,1365200,289.522899
+2013,11,Ile-de-France,77,Seine-et-Marne,08B,"Emballages, journaux-magazines",52357.93802,1365200,38.351844
+2013,11,Ile-de-France,77,Seine-et-Marne,08C,Verre,29730.80296,1365200,21.777617
+2013,11,Ile-de-France,78,Yvelines,08A,Ordures ménagères résiduelles,361262.84728,1418484,254.682356
+2013,11,Ile-de-France,78,Yvelines,08B,"Emballages, journaux-magazines",56791.30078,1418484,40.036617
+2013,11,Ile-de-France,78,Yvelines,08C,Verre,32939.29686,1418484,23.221479
+2013,11,Ile-de-France,91,Essonne,08A,Ordures ménagères résiduelles,322783.14926,1253931,257.416994
+2013,11,Ile-de-France,91,Essonne,08B,"Emballages, journaux-magazines",51750.31011,1253931,41.27046
+2013,11,Ile-de-France,91,Essonne,08C,Verre,25115.58343,1253931,20.029478
+2013,11,Ile-de-France,92,Hauts-de-seine,08A,Ordures ménagères résiduelles,442632.65464,1591403,278.139889
+2013,11,Ile-de-France,92,Hauts-de-seine,08B,"Emballages, journaux-magazines",52917.16314,1591403,33.251893
+2013,11,Ile-de-France,92,Hauts-de-seine,08C,Verre,27799.2924,1591403,17.468417
+2013,11,Ile-de-France,93,Seine-Saint-Denis,08A,Ordures ménagères résiduelles,500226.4871,1552482,322.210812
+2013,11,Ile-de-France,93,Seine-Saint-Denis,08B,"Emballages, journaux-magazines",37083.8012,1552482,23.886783
+2013,11,Ile-de-France,93,Seine-Saint-Denis,08C,Verre,15594.29857,1552482,10.044753
+2013,11,Ile-de-France,94,Val-de-Marne,08A,Ordures ménagères résiduelles,370453.41329,1354005,273.59826
+2013,11,Ile-de-France,94,Val-de-Marne,08B,"Emballages, journaux-magazines",45080.05504,1354005,33.293861
+2013,11,Ile-de-France,94,Val-de-Marne,08C,Verre,21275.45888,1354005,15.712983
+2013,11,Ile-de-France,95,Val-d'Oise,08A,Ordures ménagères résiduelles,349444.98805,1194681,292.500665
+2013,11,Ile-de-France,95,Val-d'Oise,08B,"Emballages, journaux-magazines",40189.27298,1194681,33.64017
+2013,11,Ile-de-France,95,Val-d'Oise,08C,Verre,21011.76424,1194681,17.587761
+2013,28,Normandie,14,Calvados,08A,Ordures ménagères résiduelles,189068.63307,689945,274.034355
+2013,28,Normandie,14,Calvados,08B,"Emballages, journaux-magazines",37642.619,689945,54.558869
+2013,28,Normandie,14,Calvados,08C,Verre,23862.80541,689945,34.586532
+2013,28,Normandie,27,Eure,08A,Ordures ménagères résiduelles,158313.78091,595043,266.054353
+2013,28,Normandie,27,Eure,08B,"Emballages, journaux-magazines",25897.64956,595043,43.522316
+2013,28,Normandie,27,Eure,08C,Verre,17390.67649,595043,29.225915
+2013,28,Normandie,50,Manche,08A,Ordures ménagères résiduelles,116635.23734,499919,233.30827
+2013,28,Normandie,50,Manche,08B,"Emballages, journaux-magazines",31415.79452,499919,62.841769
+2013,28,Normandie,50,Manche,08C,Verre,22425.98951,499919,44.859246
+2013,28,Normandie,61,Orne,08A,Ordures ménagères résiduelles,72201.38701,288848,249.963257
+2013,28,Normandie,61,Orne,08B,"Emballages, journaux-magazines",12804.38653,288848,44.32915
+2013,28,Normandie,61,Orne,08C,Verre,9049.12421,288848,31.328325
+2013,28,Normandie,76,Seine-Maritime,08A,Ordures ménagères résiduelles,355628.69964,1254609,283.457794
+2013,28,Normandie,76,Seine-Maritime,08B,"Emballages, journaux-magazines",51918.77755,1254609,41.382436
+2013,28,Normandie,76,Seine-Maritime,08C,Verre,33583.15018,1254609,26.767821
+2013,75,Nouvelle-Aquitaine,16,Charente,08A,Ordures ménagères résiduelles,74412.78,353482,210.513632
+2013,75,Nouvelle-Aquitaine,16,Charente,08B,"Emballages, journaux-magazines",21502.79,353482,60.831357
+2013,75,Nouvelle-Aquitaine,16,Charente,08C,Verre,11758.12,353482,33.263702
+2013,75,Nouvelle-Aquitaine,16,Charente,08D,Déchets de produits alimentaires,350,353482,0.990149
+2013,75,Nouvelle-Aquitaine,17,Charente-Maritime,08A,Ordures ménagères résiduelles,183498.4,633417,289.696045
+2013,75,Nouvelle-Aquitaine,17,Charente-Maritime,08B,"Emballages, journaux-magazines",41976.47,633417,66.269882
+2013,75,Nouvelle-Aquitaine,17,Charente-Maritime,08C,Verre,27367.17,633417,43.205613
+2013,75,Nouvelle-Aquitaine,19,Corrèze,08A,Ordures ménagères résiduelles,61135.54776,240781,253.905199
+2013,75,Nouvelle-Aquitaine,19,Corrèze,08B,"Emballages, journaux-magazines",9954.13281,240781,41.341022
+2013,75,Nouvelle-Aquitaine,19,Corrèze,08C,Verre,7108.45482,240781,29.52249
+2013,75,Nouvelle-Aquitaine,23,Creuse,08A,Ordures ménagères résiduelles,29101.671,120872,240.76437
+2013,75,Nouvelle-Aquitaine,23,Creuse,08B,"Emballages, journaux-magazines",6475.48568,120872,53.573082
+2013,75,Nouvelle-Aquitaine,23,Creuse,08C,Verre,4248.57552,120872,35.149377
+2013,75,Nouvelle-Aquitaine,24,Dordogne,08A,Ordures ménagères résiduelles,104547.11011,416909,250.767218
+2013,75,Nouvelle-Aquitaine,24,Dordogne,08B,"Emballages, journaux-magazines",22309.32592,416909,53.51126
+2013,75,Nouvelle-Aquitaine,24,Dordogne,08C,Verre,15468.15083,416909,37.101983
+2013,75,Nouvelle-Aquitaine,24,Dordogne,08D,Déchets de produits alimentaires,31.18222,416909,0.074793
+2013,75,Nouvelle-Aquitaine,33,Gironde,08A,Ordures ménagères résiduelles,369169.39829,1505517,245.211045
+2013,75,Nouvelle-Aquitaine,33,Gironde,08B,"Emballages, journaux-magazines",84370.88423,1505517,56.041136
+2013,75,Nouvelle-Aquitaine,33,Gironde,08C,Verre,44856.6425,1505517,29.794842
+2013,75,Nouvelle-Aquitaine,33,Gironde,08D,Déchets de produits alimentaires,1300.81778,1505517,0.864033
+2013,75,Nouvelle-Aquitaine,40,Landes,08A,Ordures ménagères résiduelles,122977.4424,397226,309.590616
+2013,75,Nouvelle-Aquitaine,40,Landes,08B,"Emballages, journaux-magazines",18884.01747,397226,47.539731
+2013,75,Nouvelle-Aquitaine,40,Landes,08C,Verre,13559.82411,397226,34.136295
+2013,75,Nouvelle-Aquitaine,40,Landes,08D,Déchets de produits alimentaires,188,397226,0.473282
+2013,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08A,Ordures ménagères résiduelles,87187.67663,333180,261.683404
+2013,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08B,"Emballages, journaux-magazines",14917.59451,333180,44.773379
+2013,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08C,Verre,9287.16932,333180,27.87433
+2013,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08A,Ordures ménagères résiduelles,173909.83691,664057,261.889923
+2013,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08B,"Emballages, journaux-magazines",32710.00174,664057,49.257822
+2013,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08C,Verre,21690.77686,664057,32.664028
+2013,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08D,Déchets de produits alimentaires,300,664057,0.451768
+2013,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08A,Ordures ménagères résiduelles,73638.75,371632,198.149648
+2013,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08B,"Emballages, journaux-magazines",17631.6,371632,47.443707
+2013,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08C,Verre,13017.55,371632,35.028065
+2013,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08D,Déchets de produits alimentaires,268.7,371632,0.723027
+2013,75,Nouvelle-Aquitaine,86,Vienne,08A,Ordures ménagères résiduelles,93064.8,431248,215.803435
+2013,75,Nouvelle-Aquitaine,86,Vienne,08B,"Emballages, journaux-magazines",21855.51,431248,50.679678
+2013,75,Nouvelle-Aquitaine,86,Vienne,08C,Verre,14470.56,431248,33.555077
+2013,75,Nouvelle-Aquitaine,87,Haute-Vienne,08A,Ordures ménagères résiduelles,87903.54227,375856,233.875586
+2013,75,Nouvelle-Aquitaine,87,Haute-Vienne,08B,"Emballages, journaux-magazines",19682.12,375856,52.366118
+2013,75,Nouvelle-Aquitaine,87,Haute-Vienne,08C,Verre,10922.7,375856,29.060863
+2013,76,Occitanie,09,Ariège,08B,"Emballages, journaux-magazines",7408.78444,152684,48.523646
+2013,76,Occitanie,09,Ariège,08C,Verre,4722.89096,152684,30.932455
+2015,76,Occitanie,09,Ariège,08A,Ordures ménagères résiduelles,45542.78669,152499,298.643182
+2013,76,Occitanie,11,Aude,08A,Ordures ménagères résiduelles,129901.34137,364877,356.014057
+2013,76,Occitanie,11,Aude,08B,"Emballages, journaux-magazines",14368.03891,364877,39.377759
+2013,76,Occitanie,11,Aude,08C,Verre,10298.7156,364877,28.22517
+2013,76,Occitanie,11,Aude,08D,Déchets de produits alimentaires,33,364877,0.090441
+2013,76,Occitanie,12,Aveyron,08A,Ordures ménagères résiduelles,62816.37291,277740,226.169701
+2013,76,Occitanie,12,Aveyron,08B,"Emballages, journaux-magazines",14792.50629,277740,53.260266
+2013,76,Occitanie,12,Aveyron,08C,Verre,7754.84026,277740,27.921222
+2013,76,Occitanie,30,Gard,08A,Ordures ménagères résiduelles,209073.08001,733201,285.151111
+2013,76,Occitanie,30,Gard,08B,"Emballages, journaux-magazines",32164.6297,733201,43.868775
+2013,76,Occitanie,30,Gard,08C,Verre,18384.03767,733201,25.073666
+2013,76,Occitanie,31,Haute-Garonne,08A,Ordures ménagères résiduelles,354758.11585,1298562,273.193051
+2013,76,Occitanie,31,Haute-Garonne,08B,"Emballages, journaux-magazines",56522.638,1298562,43.527099
+2013,76,Occitanie,31,Haute-Garonne,08C,Verre,32923.13338,1298562,25.353532
+2013,76,Occitanie,32,Gers,08A,Ordures ménagères résiduelles,45880.3002,190276,241.124998
+2013,76,Occitanie,32,Gers,08B,"Emballages, journaux-magazines",9662.17126,190276,50.779768
+2013,76,Occitanie,32,Gers,08C,Verre,6373.55496,190276,33.496368
+2013,76,Occitanie,34,Hérault,08A,Ordures ménagères résiduelles,339976.53192,1092331,311.239479
+2013,76,Occitanie,34,Hérault,08B,"Emballages, journaux-magazines",70658.25798,1092331,64.685757
+2013,76,Occitanie,34,Hérault,08C,Verre,30078.09213,1092331,27.535693
+2013,76,Occitanie,34,Hérault,08D,Déchets de produits alimentaires,8293,1092331,7.592021
+2013,76,Occitanie,46,Lot,08A,Ordures ménagères résiduelles,40946.17832,173758,235.650607
+2013,76,Occitanie,46,Lot,08B,"Emballages, journaux-magazines",15157.0697,173758,87.230917
+2013,76,Occitanie,46,Lot,08C,Verre,6752.73347,173758,38.862863
+2013,76,Occitanie,48,Lozère,08A,Ordures ménagères résiduelles,21414.67721,76607,279.539431
+2013,76,Occitanie,48,Lozère,08B,"Emballages, journaux-magazines",2657.52724,76607,34.690396
+2013,76,Occitanie,48,Lozère,08C,Verre,2420.94763,76607,31.602172
+2013,76,Occitanie,65,Hautes-Pyrénées,08A,Ordures ménagères résiduelles,70191.26833,228868,306.68887
+2013,76,Occitanie,65,Hautes-Pyrénées,08B,"Emballages, journaux-magazines",11319.73117,228868,49.459649
+2013,76,Occitanie,65,Hautes-Pyrénées,08C,Verre,6780.48287,228868,29.626172
+2013,76,Occitanie,66,Pyrénées-Orientales,08A,Ordures ménagères résiduelles,165511.09754,462705,357.703282
+2013,76,Occitanie,66,Pyrénées-Orientales,08B,"Emballages, journaux-magazines",30487.84428,462705,65.890457
+2013,76,Occitanie,66,Pyrénées-Orientales,08C,Verre,14619.65853,462705,31.596067
+2013,76,Occitanie,81,Tarn,08A,Ordures ménagères résiduelles,93135.88716,381927,243.857824
+2013,76,Occitanie,81,Tarn,08B,"Emballages, journaux-magazines",21567.52866,381927,56.47029
+2013,76,Occitanie,81,Tarn,08C,Verre,10639.12864,381927,27.856445
+2013,76,Occitanie,82,Tarn-et-Garonne,08A,Ordures ménagères résiduelles,64067.16434,250342,255.91856
+2013,76,Occitanie,82,Tarn-et-Garonne,08B,"Emballages, journaux-magazines",15438.11672,250342,61.668104
+2013,76,Occitanie,82,Tarn-et-Garonne,08C,Verre,6971.59016,250342,27.848264
+2013,93,PACA,04,Alpes-de-Haute-Provence,08A,Ordures ménagères résiduelles,60178.41578,161916,371.664417
+2013,93,PACA,04,Alpes-de-Haute-Provence,08B,"Emballages, journaux-magazines",5351.73218,161916,33.052522
+2013,93,PACA,04,Alpes-de-Haute-Provence,08C,Verre,4183.01621,161916,25.834483
+2013,93,PACA,05,Hautes-Alpes,08A,Ordures ménagères résiduelles,46775.0367,139279,335.836965
+2013,93,PACA,05,Hautes-Alpes,08B,"Emballages, journaux-magazines",7325.64099,139279,52.596881
+2013,93,PACA,05,Hautes-Alpes,08C,Verre,5201.83181,139279,37.348285
+2013,93,PACA,06,Alpes-Maritimes,08A,Ordures ménagères résiduelles,475024.43,1080771,439.523664
+2013,93,PACA,06,Alpes-Maritimes,08B,"Emballages, journaux-magazines",45177.7,1080771,41.801362
+2013,93,PACA,06,Alpes-Maritimes,08C,Verre,24149.89,1080771,22.345057
+2013,93,PACA,13,Bouches-du-Rhône,08A,Ordures ménagères résiduelles,755507.01913,1993177,379.046627
+2013,93,PACA,13,Bouches-du-Rhône,08B,"Emballages, journaux-magazines",52927.07265,1993177,26.554125
+2013,93,PACA,13,Bouches-du-Rhône,08C,Verre,27554.33009,1993177,13.824326
+2013,93,PACA,83,Var,08A,Ordures ménagères résiduelles,459636.51324,1028583,446.863805
+2013,93,PACA,83,Var,08B,"Emballages, journaux-magazines",40337.74391,1028583,39.216809
+2013,93,PACA,83,Var,08C,Verre,27010.83747,1028583,26.260241
+2013,93,PACA,84,Vaucluse,08A,Ordures ménagères résiduelles,192993.67679,549949,350.930134
+2013,93,PACA,84,Vaucluse,08B,"Emballages, journaux-magazines",18883.70283,549949,34.337189
+2013,93,PACA,84,Vaucluse,08C,Verre,13294.62645,549949,24.174289
+2013,52,Pays de la Loire,44,Loire-Atlantique,08A,Ordures ménagères résiduelles,279162.36334,1328620,210.114527
+2013,52,Pays de la Loire,44,Loire-Atlantique,08B,"Emballages, journaux-magazines",61141.16977,1328620,46.018552
+2013,52,Pays de la Loire,44,Loire-Atlantique,08C,Verre,48159.97656,1328620,36.248119
+2013,52,Pays de la Loire,49,Maine-et-Loire,08A,Ordures ménagères résiduelles,133408.43793,800191,166.720742
+2013,52,Pays de la Loire,49,Maine-et-Loire,08B,"Emballages, journaux-magazines",44855.38286,800191,56.055845
+2013,52,Pays de la Loire,49,Maine-et-Loire,08C,Verre,30260.10568,800191,37.816103
+2013,52,Pays de la Loire,49,Maine-et-Loire,08D,Déchets de produits alimentaires,137,800191,0.171209
+2013,52,Pays de la Loire,53,Mayenne,08A,Ordures ménagères résiduelles,58812.558,307500,191.260351
+2013,52,Pays de la Loire,53,Mayenne,08B,"Emballages, journaux-magazines",15331.33551,307500,49.858001
+2013,52,Pays de la Loire,53,Mayenne,08C,Verre,10442.43985,307500,33.959153
+2013,52,Pays de la Loire,72,Sarthe,08A,Ordures ménagères résiduelles,114031.78598,569035,200.39503
+2013,52,Pays de la Loire,72,Sarthe,08B,"Emballages, journaux-magazines",29448.38979,569035,51.751456
+2013,52,Pays de la Loire,72,Sarthe,08C,Verre,19246.87125,569035,33.823703
+2013,52,Pays de la Loire,85,Vendée,08A,Ordures ménagères résiduelles,130281.29,655506,198.749195
+2013,52,Pays de la Loire,85,Vendée,08B,"Emballages, journaux-magazines",37793.66,655506,57.655704
+2013,52,Pays de la Loire,85,Vendée,08C,Verre,31567.14,655506,48.156904
+2013,52,Pays de la Loire,85,Vendée,08D,Déchets de produits alimentaires,620.58,655506,0.946719
+2015,84,Auvergne-Rhône-Alpes,01,Ain,08A,Ordures ménagères résiduelles,121432.88413,631877,192.178041
+2015,84,Auvergne-Rhône-Alpes,01,Ain,08B,"Emballages, journaux-magazines",25652.90848,631877,40.597946
+2015,84,Auvergne-Rhône-Alpes,01,Ain,08C,Verre,20821.88174,631877,32.952428
+2015,84,Auvergne-Rhône-Alpes,03,Allier,08A,Ordures ménagères résiduelles,91615.94277,341613,268.186347
+2015,84,Auvergne-Rhône-Alpes,03,Allier,08B,"Emballages, journaux-magazines",17387.11978,341613,50.897125
+2015,84,Auvergne-Rhône-Alpes,03,Allier,08C,Verre,9630.10091,341613,28.190089
+2015,84,Auvergne-Rhône-Alpes,03,Allier,08D,Déchets de produits alimentaires,50,341613,0.146364
+2015,84,Auvergne-Rhône-Alpes,07,Ardèche,08A,Ordures ménagères résiduelles,80283.37938,324209,247.628472
+2015,84,Auvergne-Rhône-Alpes,07,Ardèche,08B,"Emballages, journaux-magazines",13123.81409,324209,40.479487
+2015,84,Auvergne-Rhône-Alpes,07,Ardèche,08C,Verre,11623.33192,324209,35.851354
+2015,84,Auvergne-Rhône-Alpes,15,Cantal,08A,Ordures ménagères résiduelles,37784.38647,146219,258.409553
+2015,84,Auvergne-Rhône-Alpes,15,Cantal,08B,"Emballages, journaux-magazines",6089.19736,146219,41.644364
+2015,84,Auvergne-Rhône-Alpes,15,Cantal,08C,Verre,4514.44694,146219,30.874557
+2015,84,Auvergne-Rhône-Alpes,26,Drôme,08A,Ordures ménagères résiduelles,128427.93078,504637,254.495668
+2015,84,Auvergne-Rhône-Alpes,26,Drôme,08B,"Emballages, journaux-magazines",20026.15429,504637,39.684276
+2015,84,Auvergne-Rhône-Alpes,26,Drôme,08C,Verre,15269.29648,504637,30.25798
+2015,84,Auvergne-Rhône-Alpes,38,Isère,08A,Ordures ménagères résiduelles,272531.67602,1251060,217.840611
+2015,84,Auvergne-Rhône-Alpes,38,Isère,08B,"Emballages, journaux-magazines",59058.72741,1251060,47.20695
+2015,84,Auvergne-Rhône-Alpes,38,Isère,08C,Verre,34268.22045,1251060,27.391348
+2015,84,Auvergne-Rhône-Alpes,38,Isère,08D,Déchets de produits alimentaires,1981.05301,1251060,1.583499
+2015,84,Auvergne-Rhône-Alpes,42,Loire,08A,Ordures ménagères résiduelles,172994.9525,759411,227.801483
+2015,84,Auvergne-Rhône-Alpes,42,Loire,08B,"Emballages, journaux-magazines",34069.94588,759411,44.863645
+2015,84,Auvergne-Rhône-Alpes,42,Loire,08C,Verre,18388.68186,759411,24.2144
+2015,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08A,Ordures ménagères résiduelles,50287.83256,227034,221.499125
+2015,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08B,"Emballages, journaux-magazines",11572.13163,227034,50.970919
+2015,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08C,Verre,6668.2747,227034,29.37126
+2015,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08A,Ordures ménagères résiduelles,142092.76569,647501,219.447947
+2015,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08B,"Emballages, journaux-magazines",39652.8263,647501,61.239791
+2015,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08C,Verre,18477.82218,647501,28.537133
+2015,84,Auvergne-Rhône-Alpes,69,Rhône,08A,Ordures ménagères résiduelles,401938.28092,1821995,220.603394
+2015,84,Auvergne-Rhône-Alpes,69,Rhône,08B,"Emballages, journaux-magazines",82232.91705,1821995,45.133448
+2015,84,Auvergne-Rhône-Alpes,69,Rhône,08C,Verre,42133.19611,1821995,23.124759
+2015,84,Auvergne-Rhône-Alpes,73,Savoie,08A,Ordures ménagères résiduelles,129566.45098,428204,302.581131
+2015,84,Auvergne-Rhône-Alpes,73,Savoie,08B,"Emballages, journaux-magazines",24564.18861,428204,57.365621
+2015,84,Auvergne-Rhône-Alpes,73,Savoie,08C,Verre,20543.62993,428204,47.976268
+2015,84,Auvergne-Rhône-Alpes,73,Savoie,08D,Déchets de produits alimentaires,22.90699,428204,0.053495
+2015,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08A,Ordures ménagères résiduelles,226247.31612,793938,284.968493
+2015,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08B,"Emballages, journaux-magazines",31398.39006,793938,39.547659
+2015,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08C,Verre,33473.03998,793938,42.160773
+2015,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08A,Ordures ménagères résiduelles,118514.74851,533147,222.292817
+2015,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08B,"Emballages, journaux-magazines",31745.95424,533147,59.544467
+2015,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08C,Verre,20017.66786,533147,37.546244
+2015,27,Bourgogne-Franche-Comté,25,Doubs,08A,Ordures ménagères résiduelles,98935.83646,536959,184.252124
+2015,27,Bourgogne-Franche-Comté,25,Doubs,08B,"Emballages, journaux-magazines",28798.5323,536959,53.632646
+2015,27,Bourgogne-Franche-Comté,25,Doubs,08C,Verre,19638.75828,536959,36.574036
+2015,27,Bourgogne-Franche-Comté,39,Jura,08A,Ordures ménagères résiduelles,50215.18702,260587,192.700276
+2015,27,Bourgogne-Franche-Comté,39,Jura,08B,"Emballages, journaux-magazines",15987.02968,260587,61.350066
+2015,27,Bourgogne-Franche-Comté,39,Jura,08C,Verre,11084.08044,260587,42.535047
+2015,27,Bourgogne-Franche-Comté,58,Nièvre,08A,Ordures ménagères résiduelles,42042.46257,211747,198.550452
+2015,27,Bourgogne-Franche-Comté,58,Nièvre,08B,"Emballages, journaux-magazines",7729.49648,211747,36.503452
+2015,27,Bourgogne-Franche-Comté,58,Nièvre,08C,Verre,8697.61968,211747,41.075527
+2015,27,Bourgogne-Franche-Comté,58,Nièvre,08D,Déchets de produits alimentaires,2967.29215,211747,14.013384
+2015,27,Bourgogne-Franche-Comté,70,Haute-Saône,08A,Ordures ménagères résiduelles,37186.69501,237706,156.439866
+2015,27,Bourgogne-Franche-Comté,70,Haute-Saône,08B,"Emballages, journaux-magazines",27527.30041,237706,115.803978
+2015,27,Bourgogne-Franche-Comté,70,Haute-Saône,08C,Verre,10341.84889,237706,43.50689
+2015,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08A,Ordures ménagères résiduelles,115707.61283,555408,208.329035
+2015,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08B,"Emballages, journaux-magazines",26375.08785,555408,47.48777
+2015,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08C,Verre,20311.00672,555408,36.569524
+2015,27,Bourgogne-Franche-Comté,89,Yonne,08A,Ordures ménagères résiduelles,75711.09123,340903,222.089835
+2015,27,Bourgogne-Franche-Comté,89,Yonne,08B,"Emballages, journaux-magazines",18434.01931,340903,54.074089
+2015,27,Bourgogne-Franche-Comté,89,Yonne,08C,Verre,12204.81355,340903,35.801426
+2015,27,Bourgogne-Franche-Comté,89,Yonne,08D,Déchets de produits alimentaires,100.60668,340903,0.295118
+2015,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08A,Ordures ménagères résiduelles,31932.87148,144483,221.014731
+2015,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08B,"Emballages, journaux-magazines",8892.35202,144483,61.546009
+2015,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08C,Verre,4357.8534,144483,30.161703
+2015,53,Bretagne,22,Cotes-d'Armor,08A,Ordures ménagères résiduelles,135702.18509,598357,226.791338
+2015,53,Bretagne,22,Cotes-d'Armor,08B,"Emballages, journaux-magazines",35314.97994,598357,59.019916
+2015,53,Bretagne,22,Cotes-d'Armor,08C,Verre,29657.16429,598357,49.56433
+2015,53,Bretagne,22,Cotes-d'Armor,08D,Déchets de produits alimentaires,166.04,598357,0.277493
+2015,53,Bretagne,29,Finistère,08A,Ordures ménagères résiduelles,214521.08725,907796,236.309795
+2015,53,Bretagne,29,Finistère,08B,"Emballages, journaux-magazines",50921.68214,907796,56.09375
+2015,53,Bretagne,29,Finistère,08C,Verre,38626.1728,907796,42.549397
+2015,53,Bretagne,35,Ille-et-Vilaine,08A,Ordures ménagères résiduelles,197804.40243,1042884,189.670569
+2015,53,Bretagne,35,Ille-et-Vilaine,08B,"Emballages, journaux-magazines",55225.33821,1042884,52.95444
+2015,53,Bretagne,35,Ille-et-Vilaine,08C,Verre,40259.87738,1042884,38.604367
+2015,53,Bretagne,35,Ille-et-Vilaine,08D,Déchets de produits alimentaires,2335,1042884,2.238983
+2015,53,Bretagne,56,Morbihan,08A,Ordures ménagères résiduelles,153198.07911,744813,205.686634
+2015,53,Bretagne,56,Morbihan,08B,"Emballages, journaux-magazines",40758.79822,744813,54.723532
+2015,53,Bretagne,56,Morbihan,08C,Verre,37463.90277,744813,50.299743
+2015,53,Bretagne,56,Morbihan,08D,Déchets de produits alimentaires,8082,744813,10.851045
+2015,24,Centre-Val de Loire,18,Cher,08A,Ordures ménagères résiduelles,63193.69035,308992,204.515619
+2015,24,Centre-Val de Loire,18,Cher,08B,"Emballages, journaux-magazines",14645.19409,308992,47.396677
+2015,24,Centre-Val de Loire,18,Cher,08C,Verre,11152.94548,308992,36.094609
+2015,24,Centre-Val de Loire,18,Cher,08D,Déchets de produits alimentaires,26.12785,308992,0.084558
+2015,24,Centre-Val de Loire,28,Eure-et-Loir,08A,Ordures ménagères résiduelles,104926.97525,434035,241.747728
+2015,24,Centre-Val de Loire,28,Eure-et-Loir,08B,"Emballages, journaux-magazines",22144.93371,434035,51.021078
+2015,24,Centre-Val de Loire,28,Eure-et-Loir,08C,Verre,12778.83747,434035,29.441951
+2015,24,Centre-Val de Loire,36,Indre,08A,Ordures ménagères résiduelles,42511.31073,224200,189.613339
+2015,24,Centre-Val de Loire,36,Indre,08B,"Emballages, journaux-magazines",17526.5868,224200,78.173892
+2015,24,Centre-Val de Loire,36,Indre,08C,Verre,8651.47537,224200,38.588204
+2015,24,Centre-Val de Loire,36,Indre,08D,Déchets de produits alimentaires,2225,224200,9.924174
+2015,24,Centre-Val de Loire,37,Indre-et-Loire,08A,Ordures ménagères résiduelles,128827.03497,604966,212.949215
+2015,24,Centre-Val de Loire,37,Indre-et-Loire,08B,"Emballages, journaux-magazines",36732.03687,604966,60.717522
+2015,24,Centre-Val de Loire,37,Indre-et-Loire,08C,Verre,21569.57199,604966,35.654188
+2015,24,Centre-Val de Loire,41,Loir-et-Cher,08A,Ordures ménagères résiduelles,75424.6166,333050,226.466346
+2015,24,Centre-Val de Loire,41,Loir-et-Cher,08B,"Emballages, journaux-magazines",14250.56931,333050,42.788077
+2015,24,Centre-Val de Loire,41,Loir-et-Cher,08C,Verre,11977.70805,333050,35.963693
+2015,24,Centre-Val de Loire,45,Loiret,08A,Ordures ménagères résiduelles,149510.57821,673349,222.040246
+2015,24,Centre-Val de Loire,45,Loiret,08B,"Emballages, journaux-magazines",30247.65688,673349,44.921217
+2015,24,Centre-Val de Loire,45,Loiret,08C,Verre,18344.68588,673349,27.243949
+2015,24,Centre-Val de Loire,45,Loiret,08D,Déchets de produits alimentaires,29.01332,673349,0.043088
+2015,94,Corse,2A,Corse-du-Sud,08A,Ordures ménagères résiduelles,73728.87439,152730,482.739961
+2015,94,Corse,2A,Corse-du-Sud,08B,"Emballages, journaux-magazines",2702.1691,152730,17.692457
+2015,94,Corse,2A,Corse-du-Sud,08C,Verre,3480.08574,152730,22.785868
+2015,94,Corse,2B,Haute-Corse,08A,Ordures ménagères résiduelles,76513.73983,174553,438.341018
+2015,94,Corse,2B,Haute-Corse,08B,"Emballages, journaux-magazines",3205.87807,174553,18.366215
+2015,94,Corse,2B,Haute-Corse,08C,Verre,4335.81082,174553,24.839509
+2015,94,Corse,2B,Haute-Corse,08D,Déchets de produits alimentaires,28,174553,0.160409
+2015,97,Dom-Com,971,Guadeloupe,08A,Ordures ménagères résiduelles,128866.59629,397990,323.793553
+2015,97,Dom-Com,971,Guadeloupe,08B,"Emballages, journaux-magazines",2701.74419,397990,6.788472
+2015,97,Dom-Com,971,Guadeloupe,08C,Verre,2227.73941,397990,5.597475
+2015,97,Dom-Com,972,Martinique,08A,Ordures ménagères résiduelles,124980.58,380877,328.138952
+2015,97,Dom-Com,972,Martinique,08B,"Emballages, journaux-magazines",3795.42,380877,9.964949
+2015,97,Dom-Com,972,Martinique,08C,Verre,3008.36,380877,7.898507
+2015,97,Dom-Com,972,Martinique,08D,Déchets de produits alimentaires,177.301,380877,0.465507
+2015,97,Dom-Com,973,Guyane,08A,Ordures ménagères résiduelles,62894.99,259865,242.029476
+2015,97,Dom-Com,973,Guyane,08B,"Emballages, journaux-magazines",1021.99247,259865,3.932782
+2015,97,Dom-Com,973,Guyane,08C,Verre,6959.31888,259865,26.780516
+2015,97,Dom-Com,974,Réunion,08A,Ordures ménagères résiduelles,233630.98,850727,274.625091
+2015,97,Dom-Com,974,Réunion,08B,"Emballages, journaux-magazines",29100.361,850727,34.206462
+2015,97,Dom-Com,974,Réunion,08C,Verre,10487.05,850727,12.327162
+2015,97,Dom-Com,974,Réunion,08D,Déchets de produits alimentaires,6174,850727,7.257322
+2015,97,Dom-Com,976,Mayotte,08A,Ordures ménagères résiduelles,52639.42198,212645,247.546013
+2015,97,Dom-Com,976,Mayotte,08B,"Emballages, journaux-magazines",0,212645,0
+2015,97,Dom-Com,976,Mayotte,08C,Verre,0,212645,0
+2015,44,Grand-Est,08,Ardennes,08A,Ordures ménagères résiduelles,67643.47,277752,243.539092
+2015,44,Grand-Est,08,Ardennes,08B,"Emballages, journaux-magazines",15472.74,277752,55.707033
+2015,44,Grand-Est,08,Ardennes,08C,Verre,9427.323,277752,33.941512
+2015,44,Grand-Est,10,Aube,08A,Ordures ménagères résiduelles,77536.09593,309056,250.880409
+2015,44,Grand-Est,10,Aube,08B,"Emballages, journaux-magazines",13213.2018,309056,42.753422
+2015,44,Grand-Est,10,Aube,08C,Verre,10769.38758,309056,34.846071
+2015,44,Grand-Est,51,Marne,08A,Ordures ménagères résiduelles,136440.60526,572245,238.430401
+2015,44,Grand-Est,51,Marne,08B,"Emballages, journaux-magazines",27709.09599,572245,48.421735
+2015,44,Grand-Est,51,Marne,08C,Verre,22245.7871,572245,38.874585
+2015,44,Grand-Est,51,Marne,08D,Déchets de produits alimentaires,363.5,572245,0.635217
+2015,44,Grand-Est,52,Haute-Marne,08A,Ordures ménagères résiduelles,43473.84732,179154,242.661884
+2015,44,Grand-Est,52,Haute-Marne,08B,"Emballages, journaux-magazines",7936.07203,179154,44.297487
+2015,44,Grand-Est,52,Haute-Marne,08C,Verre,6733.22245,179154,37.583433
+2015,44,Grand-Est,54,Meurthe-et-Moselle,08A,Ordures ménagères résiduelles,183285.53191,734403,249.570783
+2015,44,Grand-Est,54,Meurthe-et-Moselle,08B,"Emballages, journaux-magazines",30658.0462,734403,41.745535
+2015,44,Grand-Est,54,Meurthe-et-Moselle,08C,Verre,19008.85262,734403,25.883408
+2015,44,Grand-Est,54,Meurthe-et-Moselle,08D,Déchets de produits alimentaires,0.001000,734403,0.000001
+2015,44,Grand-Est,55,Meuse,08A,Ordures ménagères résiduelles,43434.6533,190626,227.852723
+2015,44,Grand-Est,55,Meuse,08B,"Emballages, journaux-magazines",9524.17044,190626,49.962599
+2015,44,Grand-Est,55,Meuse,08C,Verre,6473.39638,190626,33.958622
+2015,44,Grand-Est,57,Moselle,08A,Ordures ménagères résiduelles,247206.79438,1044486,236.677939
+2015,44,Grand-Est,57,Moselle,08B,"Emballages, journaux-magazines",62137.3142,1044486,59.490806
+2015,44,Grand-Est,57,Moselle,08C,Verre,31445.4335,1044486,30.106132
+2015,44,Grand-Est,57,Moselle,08D,Déchets de produits alimentaires,19421.48449,1044486,18.594298
+2015,44,Grand-Est,67,Bas-Rhin,08A,Ordures ménagères résiduelles,230261.12068,1116658,206.205589
+2015,44,Grand-Est,67,Bas-Rhin,08B,"Emballages, journaux-magazines",61718.69343,1116658,55.2709
+2015,44,Grand-Est,67,Bas-Rhin,08C,Verre,37924.90578,1116658,33.962865
+2015,44,Grand-Est,67,Bas-Rhin,08D,Déchets de produits alimentaires,1350.57551,1116658,1.209479
+2015,44,Grand-Est,68,Haut-Rhin,08A,Ordures ménagères résiduelles,151330.17856,762607,198.437961
+2015,44,Grand-Est,68,Haut-Rhin,08B,"Emballages, journaux-magazines",50589.61525,762607,66.337727
+2015,44,Grand-Est,68,Haut-Rhin,08C,Verre,28171.36598,762607,36.940869
+2015,44,Grand-Est,68,Haut-Rhin,08D,Déchets de produits alimentaires,11074.591,762607,14.522015
+2015,44,Grand-Est,88,Vosges,08A,Ordures ménagères résiduelles,85018.53033,372016,228.534606
+2015,44,Grand-Est,88,Vosges,08B,"Emballages, journaux-magazines",18835.6516,372016,50.631294
+2015,44,Grand-Est,88,Vosges,08C,Verre,15651.20938,372016,42.071333
+2015,32,Hauts-de-France,02,Aisne,08A,Ordures ménagères résiduelles,125994.59978,538707,233.883353
+2015,32,Hauts-de-France,02,Aisne,08B,"Emballages, journaux-magazines",24815.52756,538707,46.06498
+2015,32,Hauts-de-France,02,Aisne,08C,Verre,19849.63651,538707,36.846813
+2015,32,Hauts-de-France,59,Nord,08A,Ordures ménagères résiduelles,652472.64639,2605238,250.446464
+2015,32,Hauts-de-France,59,Nord,08B,"Emballages, journaux-magazines",194645.06768,2605238,74.712969
+2015,32,Hauts-de-France,59,Nord,08C,Verre,50656.95808,2605238,19.444272
+2015,32,Hauts-de-France,59,Nord,08D,Déchets de produits alimentaires,4562,2605238,1.751087
+2015,32,Hauts-de-France,60,Oise,08A,Ordures ménagères résiduelles,206567.308,821552,251.435463
+2015,32,Hauts-de-France,60,Oise,08B,"Emballages, journaux-magazines",45101.157,821552,54.897507
+2015,32,Hauts-de-France,60,Oise,08C,Verre,22244.22,821552,27.075851
+2015,32,Hauts-de-France,62,Pas-de-Calais,08A,Ordures ménagères résiduelles,394215.07301,1472648,267.69131
+2015,32,Hauts-de-France,62,Pas-de-Calais,08B,"Emballages, journaux-magazines",86596.06329,1472648,58.802961
+2015,32,Hauts-de-France,62,Pas-de-Calais,08C,Verre,57888.4268,1472648,39.309072
+2015,32,Hauts-de-France,62,Pas-de-Calais,08D,Déchets de produits alimentaires,60180,1472648,40.865162
+2015,32,Hauts-de-France,80,Somme,08A,Ordures ménagères résiduelles,159682.87902,571879,279.224939
+2015,32,Hauts-de-France,80,Somme,08B,"Emballages, journaux-magazines",24665.32242,571879,43.130316
+2015,32,Hauts-de-France,80,Somme,08C,Verre,20772.25883,571879,36.322821
+2015,32,Hauts-de-France,80,Somme,08D,Déchets de produits alimentaires,428.32,571879,0.748969
+2015,11,Ile-de-France,75,Paris,08A,Ordures ménagères résiduelles,787400,2206488,356.856688
+2015,11,Ile-de-France,75,Paris,08B,"Emballages, journaux-magazines",79316,2206488,35.946717
+2015,11,Ile-de-France,75,Paris,08C,Verre,67307.3,2206488,30.504267
+2015,11,Ile-de-France,77,Seine-et-Marne,08A,Ordures ménagères résiduelles,391050.60053,1390121,281.306879
+2015,11,Ile-de-France,77,Seine-et-Marne,08B,"Emballages, journaux-magazines",52720.46351,1390121,37.925089
+2015,11,Ile-de-France,77,Seine-et-Marne,08C,Verre,29633.30618,1390121,21.317069
+2015,11,Ile-de-France,78,Yvelines,08A,Ordures ménagères résiduelles,357445.27932,1427291,250.436161
+2015,11,Ile-de-France,78,Yvelines,08B,"Emballages, journaux-magazines",57798.51394,1427291,40.495255
+2015,11,Ile-de-France,78,Yvelines,08C,Verre,33075.1932,1427291,23.173405
+2015,11,Ile-de-France,91,Essonne,08A,Ordures ménagères résiduelles,321402.55417,1276233,251.836893
+2015,11,Ile-de-France,91,Essonne,08B,"Emballages, journaux-magazines",53375.01182,1276233,41.822309
+2015,11,Ile-de-France,91,Essonne,08C,Verre,24890.28494,1276233,19.502931
+2015,11,Ile-de-France,92,Hauts-de-seine,08A,Ordures ménagères résiduelles,426522.33979,1601569,266.315306
+2015,11,Ile-de-France,92,Hauts-de-seine,08B,"Emballages, journaux-magazines",55108.73867,1601569,34.409219
+2015,11,Ile-de-France,92,Hauts-de-seine,08C,Verre,29247.82682,1601569,18.261983
+2015,11,Ile-de-France,93,Seine-Saint-Denis,08A,Ordures ménagères résiduelles,485653.40292,1592663,304.931679
+2015,11,Ile-de-France,93,Seine-Saint-Denis,08B,"Emballages, journaux-magazines",37881.4209,1592663,23.784956
+2015,11,Ile-de-France,93,Seine-Saint-Denis,08C,Verre,15610.01055,1592663,9.801201
+2015,11,Ile-de-France,94,Val-de-Marne,08A,Ordures ménagères résiduelles,367559.10979,1372389,267.82429
+2015,11,Ile-de-France,94,Val-de-Marne,08B,"Emballages, journaux-magazines",47242.72957,1372389,34.423716
+2015,11,Ile-de-France,94,Val-de-Marne,08C,Verre,21571.97801,1372389,15.718559
+2015,11,Ile-de-France,95,Val-d'Oise,08A,Ordures ménagères résiduelles,345183.8405,1215390,284.010762
+2015,11,Ile-de-France,95,Val-d'Oise,08B,"Emballages, journaux-magazines",40217.64446,1215390,33.09032
+2015,11,Ile-de-France,95,Val-d'Oise,08C,Verre,20039.84684,1215390,16.488408
+2015,28,Normandie,14,Calvados,08A,Ordures ménagères résiduelles,187552.43045,693579,270.412498
+2015,28,Normandie,14,Calvados,08B,"Emballages, journaux-magazines",38131.83762,693579,54.978362
+2015,28,Normandie,14,Calvados,08C,Verre,25003.123,693579,36.049423
+2015,28,Normandie,27,Eure,08A,Ordures ménagères résiduelles,154420.98794,601948,256.535428
+2015,28,Normandie,27,Eure,08B,"Emballages, journaux-magazines",25701.94806,601948,42.697954
+2015,28,Normandie,27,Eure,08C,Verre,17219.12485,601948,28.605668
+2015,28,Normandie,50,Manche,08A,Ordures ménagères résiduelles,131113.48553,499287,262.60144
+2015,28,Normandie,50,Manche,08B,"Emballages, journaux-magazines",28537.2787,499287,57.156061
+2015,28,Normandie,50,Manche,08C,Verre,21893.62396,499287,43.849777
+2015,28,Normandie,61,Orne,08A,Ordures ménagères résiduelles,65198.9843,286618,227.476935
+2015,28,Normandie,61,Orne,08B,"Emballages, journaux-magazines",12160.25887,286618,42.42671
+2015,28,Normandie,61,Orne,08C,Verre,9146.12879,286618,31.910517
+2015,28,Normandie,76,Seine-Maritime,08A,Ordures ménagères résiduelles,342378.03318,1257699,272.225733
+2015,28,Normandie,76,Seine-Maritime,08B,"Emballages, journaux-magazines",52670.27083,1257699,41.878279
+2015,28,Normandie,76,Seine-Maritime,08C,Verre,33932.61469,1257699,26.979917
+2015,75,Nouvelle-Aquitaine,16,Charente,08A,Ordures ménagères résiduelles,73169.94,353613,206.920955
+2015,75,Nouvelle-Aquitaine,16,Charente,08B,"Emballages, journaux-magazines",21113.79,353613,59.708749
+2015,75,Nouvelle-Aquitaine,16,Charente,08C,Verre,12313.02,353613,34.820608
+2015,75,Nouvelle-Aquitaine,16,Charente,08D,Déchets de produits alimentaires,335.22,353613,0.947985
+2015,75,Nouvelle-Aquitaine,17,Charente-Maritime,08A,Ordures ménagères résiduelles,175782.4,639938,274.68661
+2015,75,Nouvelle-Aquitaine,17,Charente-Maritime,08B,"Emballages, journaux-magazines",44620.89,639938,69.726895
+2015,75,Nouvelle-Aquitaine,17,Charente-Maritime,08C,Verre,28548.28,639938,44.611009
+2015,75,Nouvelle-Aquitaine,19,Corrèze,08A,Ordures ménagères résiduelles,56804.52849,241871,234.854647
+2015,75,Nouvelle-Aquitaine,19,Corrèze,08B,"Emballages, journaux-magazines",11665.08124,241871,48.228523
+2015,75,Nouvelle-Aquitaine,19,Corrèze,08C,Verre,7360.97884,241871,30.43349
+2015,75,Nouvelle-Aquitaine,23,Creuse,08A,Ordures ménagères résiduelles,28005.01503,120365,232.667428
+2015,75,Nouvelle-Aquitaine,23,Creuse,08B,"Emballages, journaux-magazines",6587.70198,120365,54.731042
+2015,75,Nouvelle-Aquitaine,23,Creuse,08C,Verre,4202.53666,120365,34.914939
+2015,75,Nouvelle-Aquitaine,24,Dordogne,08A,Ordures ménagères résiduelles,97068.5602,415417,233.665353
+2015,75,Nouvelle-Aquitaine,24,Dordogne,08B,"Emballages, journaux-magazines",22464.90237,415417,54.077956
+2015,75,Nouvelle-Aquitaine,24,Dordogne,08C,Verre,18852.16136,415417,45.381294
+2015,75,Nouvelle-Aquitaine,24,Dordogne,08D,Déchets de produits alimentaires,0.001000,415417,0.000002
+2015,75,Nouvelle-Aquitaine,33,Gironde,08A,Ordures ménagères résiduelles,377077.9658,1548478,243.515223
+2015,75,Nouvelle-Aquitaine,33,Gironde,08B,"Emballages, journaux-magazines",86836.47437,1548478,56.078597
+2015,75,Nouvelle-Aquitaine,33,Gironde,08C,Verre,46995.66982,1548478,30.349588
+2015,75,Nouvelle-Aquitaine,33,Gironde,08D,Déchets de produits alimentaires,1447,1548478,0.934465
+2015,75,Nouvelle-Aquitaine,40,Landes,08A,Ordures ménagères résiduelles,130013.51863,403234,322.426974
+2015,75,Nouvelle-Aquitaine,40,Landes,08B,"Emballages, journaux-magazines",17389.39835,403234,43.124831
+2015,75,Nouvelle-Aquitaine,40,Landes,08C,Verre,13686.15123,403234,33.940965
+2015,75,Nouvelle-Aquitaine,40,Landes,08D,Déchets de produits alimentaires,281,403234,0.696865
+2015,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08A,Ordures ménagères résiduelles,87166.00544,333417,261.432396
+2015,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08B,"Emballages, journaux-magazines",14655.64524,333417,43.955902
+2015,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08C,Verre,9175.76613,333417,27.52039
+2015,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08A,Ordures ménagères résiduelles,171100.38978,670032,255.361519
+2015,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08B,"Emballages, journaux-magazines",32514.52192,670032,48.526819
+2015,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08C,Verre,22475.75859,670032,33.544306
+2015,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08D,Déchets de produits alimentaires,292,670032,0.4358
+2015,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08A,Ordures ménagères résiduelles,72578.77551,374435,193.835446
+2015,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08B,"Emballages, journaux-magazines",18122.15634,374435,48.39867
+2015,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08C,Verre,13454.01556,374435,35.931511
+2015,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08D,Déchets de produits alimentaires,107.1,374435,0.28603
+2015,75,Nouvelle-Aquitaine,86,Vienne,08A,Ordures ménagères résiduelles,91307.57,434887,209.957
+2015,75,Nouvelle-Aquitaine,86,Vienne,08B,"Emballages, journaux-magazines",21826.72,434887,50.189405
+2015,75,Nouvelle-Aquitaine,86,Vienne,08C,Verre,15076.04,434887,34.666568
+2015,75,Nouvelle-Aquitaine,86,Vienne,08D,Déchets de produits alimentaires,148,434887,0.340318
+2015,75,Nouvelle-Aquitaine,87,Haute-Vienne,08A,Ordures ménagères résiduelles,84839.64173,375795,225.760432
+2015,75,Nouvelle-Aquitaine,87,Haute-Vienne,08B,"Emballages, journaux-magazines",20238.28842,375795,53.854597
+2015,75,Nouvelle-Aquitaine,87,Haute-Vienne,08C,Verre,11160.8202,375795,29.699224
+2015,76,Occitanie,09,Ariège,08B,"Emballages, journaux-magazines",7214.60678,152499,47.309207
+2015,76,Occitanie,09,Ariège,08C,Verre,4820.49592,152499,31.610016
+2017,76,Occitanie,09,Ariège,08A,Ordures ménagères résiduelles,44743.93832,153153,292.151889
+2015,76,Occitanie,11,Aude,08A,Ordures ménagères résiduelles,124541.75473,366957,339.390595
+2015,76,Occitanie,11,Aude,08B,"Emballages, journaux-magazines",16506.3815,366957,44.981786
+2015,76,Occitanie,11,Aude,08C,Verre,9968.90097,366957,27.1664
+2015,76,Occitanie,12,Aveyron,08A,Ordures ménagères résiduelles,63029.47155,279169,225.775324
+2015,76,Occitanie,12,Aveyron,08B,"Emballages, journaux-magazines",16125.67625,279169,57.763133
+2015,76,Occitanie,12,Aveyron,08C,Verre,8277.56867,279169,29.650744
+2015,76,Occitanie,30,Gard,08A,Ordures ménagères résiduelles,214672.93247,738189,290.810256
+2015,76,Occitanie,30,Gard,08B,"Emballages, journaux-magazines",33350.51315,738189,45.178827
+2015,76,Occitanie,30,Gard,08C,Verre,19985.79994,738189,27.074096
+2015,76,Occitanie,31,Haute-Garonne,08A,Ordures ménagères résiduelles,347505.45216,1335103,260.283627
+2015,76,Occitanie,31,Haute-Garonne,08B,"Emballages, journaux-magazines",59095.74265,1335103,44.263058
+2015,76,Occitanie,31,Haute-Garonne,08C,Verre,35163.89752,1335103,26.337966
+2015,76,Occitanie,32,Gers,08A,Ordures ménagères résiduelles,46411.17615,190932,243.076991
+2015,76,Occitanie,32,Gers,08B,"Emballages, journaux-magazines",9844.5108,190932,51.560297
+2015,76,Occitanie,32,Gers,08C,Verre,6389.28928,190932,33.46369
+2015,76,Occitanie,34,Hérault,08A,Ordures ménagères résiduelles,347493.57988,1120190,310.2095
+2015,76,Occitanie,34,Hérault,08B,"Emballages, journaux-magazines",51743.77456,1120190,46.191962
+2015,76,Occitanie,34,Hérault,08C,Verre,32217.1334,1120190,28.760418
+2015,76,Occitanie,34,Hérault,08D,Déchets de produits alimentaires,7672,1120190,6.848838
+2015,76,Occitanie,46,Lot,08A,Ordures ménagères résiduelles,40294.34444,173400,232.377995
+2015,76,Occitanie,46,Lot,08B,"Emballages, journaux-magazines",15284.56791,173400,88.146297
+2015,76,Occitanie,46,Lot,08C,Verre,6959.26831,173400,40.134188
+2015,76,Occitanie,48,Lozère,08A,Ordures ménagères résiduelles,20786.37465,76309,272.397419
+2015,76,Occitanie,48,Lozère,08B,"Emballages, journaux-magazines",4141.9865,76309,54.279134
+2015,76,Occitanie,48,Lozère,08C,Verre,2447.01163,76309,32.067143
+2015,76,Occitanie,65,Hautes-Pyrénées,08A,Ordures ménagères résiduelles,65117.58661,228582,284.876265
+2015,76,Occitanie,65,Hautes-Pyrénées,08B,"Emballages, journaux-magazines",11986.63348,228582,52.439096
+2015,76,Occitanie,65,Hautes-Pyrénées,08C,Verre,7442.48704,228582,32.559374
+2015,76,Occitanie,66,Pyrénées-Orientales,08A,Ordures ménagères résiduelles,156852.56119,471038,332.993434
+2015,76,Occitanie,66,Pyrénées-Orientales,08B,"Emballages, journaux-magazines",27541.44192,471038,58.469681
+2015,76,Occitanie,66,Pyrénées-Orientales,08C,Verre,15157.24498,471038,32.178391
+2015,76,Occitanie,81,Tarn,08A,Ordures ménagères résiduelles,94668.79431,386543,244.911418
+2015,76,Occitanie,81,Tarn,08B,"Emballages, journaux-magazines",22445.28145,386543,58.066713
+2015,76,Occitanie,81,Tarn,08C,Verre,11582.89326,386543,29.965342
+2015,76,Occitanie,82,Tarn-et-Garonne,08A,Ordures ménagères résiduelles,62831.01055,255274,246.131648
+2015,76,Occitanie,82,Tarn-et-Garonne,08B,"Emballages, journaux-magazines",15547.66713,255274,60.905799
+2015,76,Occitanie,82,Tarn-et-Garonne,08C,Verre,7187.38095,255274,28.155554
+2015,93,PACA,04,Alpes-de-Haute-Provence,08A,Ordures ménagères résiduelles,59452.2013,161799,367.4448
+2015,93,PACA,04,Alpes-de-Haute-Provence,08B,"Emballages, journaux-magazines",5607.53314,161799,34.657402
+2015,93,PACA,04,Alpes-de-Haute-Provence,08C,Verre,4326.38344,161799,26.739247
+2015,93,PACA,05,Hautes-Alpes,08A,Ordures ménagères résiduelles,46329.95683,140916,328.777121
+2015,93,PACA,05,Hautes-Alpes,08B,"Emballages, journaux-magazines",7277.21832,140916,51.642243
+2015,93,PACA,05,Hautes-Alpes,08C,Verre,5806.84096,140916,41.207818
+2015,93,PACA,06,Alpes-Maritimes,08A,Ordures ménagères résiduelles,452008.04,1082440,417.582535
+2015,93,PACA,06,Alpes-Maritimes,08B,"Emballages, journaux-magazines",43358.96,1082440,40.056686
+2015,93,PACA,06,Alpes-Maritimes,08C,Verre,24674.22,1082440,22.795
+2015,93,PACA,13,Bouches-du-Rhône,08A,Ordures ménagères résiduelles,760504.60332,2016622,377.118073
+2015,93,PACA,13,Bouches-du-Rhône,08B,"Emballages, journaux-magazines",50952.69275,2016622,25.266357
+2015,93,PACA,13,Bouches-du-Rhône,08C,Verre,29080.85481,2016622,14.420577
+2015,93,PACA,83,Var,08A,Ordures ménagères résiduelles,454035.1132,1048652,432.970244
+2015,93,PACA,83,Var,08B,"Emballages, journaux-magazines",42348.73745,1048652,40.383976
+2015,93,PACA,83,Var,08C,Verre,27424.24185,1048652,26.151899
+2015,93,PACA,84,Vaucluse,08A,Ordures ménagères résiduelles,190281.87618,557548,341.283398
+2015,93,PACA,84,Vaucluse,08B,"Emballages, journaux-magazines",22430.23518,557548,40.230141
+2015,93,PACA,84,Vaucluse,08C,Verre,15148.3521,557548,27.169592
+2015,52,Pays de la Loire,44,Loire-Atlantique,08A,Ordures ménagères résiduelles,277004.56612,1366203,202.755056
+2015,52,Pays de la Loire,44,Loire-Atlantique,08B,"Emballages, journaux-magazines",66705.95449,1366203,48.8258
+2015,52,Pays de la Loire,44,Loire-Atlantique,08C,Verre,52645.39276,1366203,38.534092
+2015,52,Pays de la Loire,49,Maine-et-Loire,08A,Ordures ménagères résiduelles,130293.31949,809210,161.012987
+2015,52,Pays de la Loire,49,Maine-et-Loire,08B,"Emballages, journaux-magazines",43221.10617,809210,53.411483
+2015,52,Pays de la Loire,49,Maine-et-Loire,08C,Verre,30501.53962,809210,37.692984
+2015,52,Pays de la Loire,49,Maine-et-Loire,08D,Déchets de produits alimentaires,152,809210,0.187837
+2015,52,Pays de la Loire,53,Mayenne,08A,Ordures ménagères résiduelles,56134.77349,307940,182.291269
+2015,52,Pays de la Loire,53,Mayenne,08B,"Emballages, journaux-magazines",15273.85921,307940,49.600114
+2015,52,Pays de la Loire,53,Mayenne,08C,Verre,10607.29002,307940,34.445963
+2015,52,Pays de la Loire,72,Sarthe,08A,Ordures ménagères résiduelles,104836.88149,568445,184.427484
+2015,52,Pays de la Loire,72,Sarthe,08B,"Emballages, journaux-magazines",29398.68767,568445,51.717734
+2015,52,Pays de la Loire,72,Sarthe,08C,Verre,19482.12783,568445,34.272669
+2015,52,Pays de la Loire,85,Vendée,08A,Ordures ménagères résiduelles,128550.64,666714,192.81227
+2015,52,Pays de la Loire,85,Vendée,08B,"Emballages, journaux-magazines",38917.42,666714,58.371985
+2015,52,Pays de la Loire,85,Vendée,08C,Verre,30969.19,666714,46.450487
+2015,52,Pays de la Loire,85,Vendée,08D,Déchets de produits alimentaires,1027.18,666714,1.54066
+2017,84,Auvergne-Rhône-Alpes,01,Ain,08A,Ordures ménagères résiduelles,120762.53598,643350,187.708923
+2017,84,Auvergne-Rhône-Alpes,01,Ain,08B,"Emballages, journaux-magazines",28613.59703,643350,44.475941
+2017,84,Auvergne-Rhône-Alpes,01,Ain,08C,Verre,21763.62098,643350,33.828586
+2017,84,Auvergne-Rhône-Alpes,03,Allier,08A,Ordures ménagères résiduelles,87596.2617,337988,259.169738
+2017,84,Auvergne-Rhône-Alpes,03,Allier,08B,"Emballages, journaux-magazines",18562.77018,337988,54.921388
+2017,84,Auvergne-Rhône-Alpes,03,Allier,08C,Verre,10443.72846,337988,30.899701
+2017,84,Auvergne-Rhône-Alpes,03,Allier,08D,Déchets de produits alimentaires,72,337988,0.213025
+2017,84,Auvergne-Rhône-Alpes,07,Ardèche,08A,Ordures ménagères résiduelles,78693.92815,325712,241.60586
+2017,84,Auvergne-Rhône-Alpes,07,Ardèche,08B,"Emballages, journaux-magazines",13765.16463,325712,42.261766
+2017,84,Auvergne-Rhône-Alpes,07,Ardèche,08C,Verre,12064.34018,325712,37.0399
+2017,84,Auvergne-Rhône-Alpes,15,Cantal,08A,Ordures ménagères résiduelles,35744.36215,145143,246.269969
+2017,84,Auvergne-Rhône-Alpes,15,Cantal,08B,"Emballages, journaux-magazines",7835.74882,145143,53.986405
+2017,84,Auvergne-Rhône-Alpes,15,Cantal,08C,Verre,4589.99216,145143,31.62393
+2017,84,Auvergne-Rhône-Alpes,26,Drôme,08A,Ordures ménagères résiduelles,126174.10256,511553,246.64913
+2017,84,Auvergne-Rhône-Alpes,26,Drôme,08B,"Emballages, journaux-magazines",20291.15351,511553,39.665789
+2017,84,Auvergne-Rhône-Alpes,26,Drôme,08C,Verre,15891.01679,511553,31.064262
+2017,84,Auvergne-Rhône-Alpes,38,Isère,08A,Ordures ménagères résiduelles,270874.5361,1258722,215.198062
+2017,84,Auvergne-Rhône-Alpes,38,Isère,08B,"Emballages, journaux-magazines",60284.88449,1258722,47.893724
+2017,84,Auvergne-Rhône-Alpes,38,Isère,08C,Verre,34212.38249,1258722,27.180253
+2017,84,Auvergne-Rhône-Alpes,38,Isère,08D,Déchets de produits alimentaires,1802.69205,1258722,1.43216
+2017,84,Auvergne-Rhône-Alpes,42,Loire,08A,Ordures ménagères résiduelles,171271.27569,762941,224.488231
+2017,84,Auvergne-Rhône-Alpes,42,Loire,08B,"Emballages, journaux-magazines",35045.15314,762941,45.934289
+2017,84,Auvergne-Rhône-Alpes,42,Loire,08C,Verre,19006.87864,762941,24.912645
+2017,84,Auvergne-Rhône-Alpes,42,Loire,08D,Déchets de produits alimentaires,24.98,762941,0.032741
+2017,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08A,Ordures ménagères résiduelles,48463.40254,227283,213.229333
+2017,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08B,"Emballages, journaux-magazines",11896.20378,227283,52.34093
+2017,84,Auvergne-Rhône-Alpes,43,Haute-Loire,08C,Verre,7001.53426,227283,30.805358
+2017,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08A,Ordures ménagères résiduelles,136681.56678,653742,209.0757
+2017,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08B,"Emballages, journaux-magazines",39543.84066,653742,60.48845
+2017,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08C,Verre,19593.60914,653742,29.97147
+2017,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,08D,Déchets de produits alimentaires,336.32,653742,0.514453
+2017,84,Auvergne-Rhône-Alpes,69,Rhône,08A,Ordures ménagères résiduelles,404280.05552,1843319,219.321807
+2017,84,Auvergne-Rhône-Alpes,69,Rhône,08B,"Emballages, journaux-magazines",83215.89073,1843319,45.144595
+2017,84,Auvergne-Rhône-Alpes,69,Rhône,08C,Verre,44622.75308,1843319,24.20783
+2017,84,Auvergne-Rhône-Alpes,73,Savoie,08A,Ordures ménagères résiduelles,127977.18838,431174,296.811005
+2017,84,Auvergne-Rhône-Alpes,73,Savoie,08B,"Emballages, journaux-magazines",25467.68578,431174,59.065912
+2017,84,Auvergne-Rhône-Alpes,73,Savoie,08C,Verre,20911.22035,431174,48.498333
+2017,84,Auvergne-Rhône-Alpes,73,Savoie,08D,Déchets de produits alimentaires,449.25495,431174,1.041934
+2017,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08A,Ordures ménagères résiduelles,225440.38982,807360,279.231556
+2017,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08B,"Emballages, journaux-magazines",33273.28121,807360,41.212447
+2017,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08C,Verre,35467.96146,807360,43.930788
+2017,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,08D,Déchets de produits alimentaires,335.73,807360,0.415836
+2017,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08A,Ordures ménagères résiduelles,116177.09122,533819,217.633863
+2017,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08B,"Emballages, journaux-magazines",30423.78391,533819,56.992695
+2017,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08C,Verre,20638.61484,533819,38.662196
+2017,27,Bourgogne-Franche-Comté,21,Cote-d'Or,08D,Déchets de produits alimentaires,114,533819,0.213555
+2017,27,Bourgogne-Franche-Comté,25,Doubs,08A,Ordures ménagères résiduelles,94205.13281,539067,174.755888
+2017,27,Bourgogne-Franche-Comté,25,Doubs,08B,"Emballages, journaux-magazines",29138.85975,539067,54.054245
+2017,27,Bourgogne-Franche-Comté,25,Doubs,08C,Verre,20333.54538,539067,37.719885
+2017,27,Bourgogne-Franche-Comté,39,Jura,08A,Ordures ménagères résiduelles,49895.47489,260188,191.76701
+2017,27,Bourgogne-Franche-Comté,39,Jura,08B,"Emballages, journaux-magazines",16386.40856,260188,62.979109
+2017,27,Bourgogne-Franche-Comté,39,Jura,08C,Verre,11661.37384,260188,44.81903
+2017,27,Bourgogne-Franche-Comté,58,Nièvre,08A,Ordures ménagères résiduelles,40256.64182,207182,194.305691
+2017,27,Bourgogne-Franche-Comté,58,Nièvre,08B,"Emballages, journaux-magazines",10530.00205,207182,50.824888
+2017,27,Bourgogne-Franche-Comté,58,Nièvre,08C,Verre,8488.76677,207182,40.97251
+2017,27,Bourgogne-Franche-Comté,58,Nièvre,08D,Déchets de produits alimentaires,3221.25981,207182,15.547971
+2017,27,Bourgogne-Franche-Comté,70,Haute-Saône,08A,Ordures ménagères résiduelles,32503.10771,236659,137.341523
+2017,27,Bourgogne-Franche-Comté,70,Haute-Saône,08B,"Emballages, journaux-magazines",17386.08555,236659,73.464713
+2017,27,Bourgogne-Franche-Comté,70,Haute-Saône,08C,Verre,10547.9319,236659,44.57017
+2017,27,Bourgogne-Franche-Comté,70,Haute-Saône,08D,Déchets de produits alimentaires,35.6,236659,0.150427
+2017,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08A,Ordures ménagères résiduelles,112208.10173,553595,202.689875
+2017,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08B,"Emballages, journaux-magazines",26187.19462,553595,47.303885
+2017,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,08C,Verre,20857.84489,553595,37.677083
+2017,27,Bourgogne-Franche-Comté,89,Yonne,08A,Ordures ménagères résiduelles,67866.22404,338291,200.614926
+2017,27,Bourgogne-Franche-Comté,89,Yonne,08B,"Emballages, journaux-magazines",19966.99327,338291,59.023128
+2017,27,Bourgogne-Franche-Comté,89,Yonne,08C,Verre,12460.80107,338291,36.834562
+2017,27,Bourgogne-Franche-Comté,89,Yonne,08D,Déchets de produits alimentaires,2612.37026,338291,7.722257
+2017,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08A,Ordures ménagères résiduelles,31672.30153,142622,222.07164
+2017,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08B,"Emballages, journaux-magazines",8420.10533,142622,59.037913
+2017,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,08C,Verre,4464.59533,142622,31.303693
+2017,53,Bretagne,22,Cotes-d'Armor,08A,Ordures ménagères résiduelles,131133.97438,598814,218.989493
+2017,53,Bretagne,22,Cotes-d'Armor,08B,"Emballages, journaux-magazines",43128.02993,598814,72.022414
+2017,53,Bretagne,22,Cotes-d'Armor,08C,Verre,28863.82537,598814,48.201654
+2017,53,Bretagne,22,Cotes-d'Armor,08D,Déchets de produits alimentaires,219,598814,0.365722
+2017,53,Bretagne,29,Finistère,08A,Ordures ménagères résiduelles,210087.19872,909028,231.111911
+2017,53,Bretagne,29,Finistère,08B,"Emballages, journaux-magazines",54837.20461,909028,60.325099
+2017,53,Bretagne,29,Finistère,08C,Verre,40513.63958,909028,44.568087
+2017,53,Bretagne,29,Finistère,08D,Déchets de produits alimentaires,232,909028,0.255217
+2017,53,Bretagne,35,Ille-et-Vilaine,08A,Ordures ménagères résiduelles,191200.42293,1060199,180.3439
+2017,53,Bretagne,35,Ille-et-Vilaine,08B,"Emballages, journaux-magazines",56040.9389,1060199,52.858886
+2017,53,Bretagne,35,Ille-et-Vilaine,08C,Verre,42271.92662,1060199,39.87169
+2017,53,Bretagne,35,Ille-et-Vilaine,08D,Déchets de produits alimentaires,2711.06,1060199,2.557123
+2017,53,Bretagne,56,Morbihan,08A,Ordures ménagères résiduelles,149381.4009,750863,198.94628
+2017,53,Bretagne,56,Morbihan,08B,"Emballages, journaux-magazines",44162.27411,750863,58.815355
+2017,53,Bretagne,56,Morbihan,08C,Verre,39279.80807,750863,52.312882
+2017,53,Bretagne,56,Morbihan,08D,Déchets de produits alimentaires,7731.22,750863,10.296445
+2017,24,Centre-Val de Loire,18,Cher,08A,Ordures ménagères résiduelles,61659.08307,304256,202.655274
+2017,24,Centre-Val de Loire,18,Cher,08B,"Emballages, journaux-magazines",15334.69602,304256,50.400636
+2017,24,Centre-Val de Loire,18,Cher,08C,Verre,10884.12097,304256,35.772904
+2017,24,Centre-Val de Loire,18,Cher,08D,Déchets de produits alimentaires,22.94405,304256,0.075410
+2017,24,Centre-Val de Loire,28,Eure-et-Loir,08A,Ordures ménagères résiduelles,103480.49524,433233,238.856447
+2017,24,Centre-Val de Loire,28,Eure-et-Loir,08B,"Emballages, journaux-magazines",21543.67583,433233,49.727688
+2017,24,Centre-Val de Loire,28,Eure-et-Loir,08C,Verre,12984.10107,433233,29.970249
+2017,24,Centre-Val de Loire,36,Indre,08A,Ordures ménagères résiduelles,39662.494,222232,178.47337
+2017,24,Centre-Val de Loire,36,Indre,08B,"Emballages, journaux-magazines",20131.96811,222232,90.58987
+2017,24,Centre-Val de Loire,36,Indre,08C,Verre,8625.14383,222232,38.811439
+2017,24,Centre-Val de Loire,37,Indre-et-Loire,08A,Ordures ménagères résiduelles,128608.52828,606511,212.046489
+2017,24,Centre-Val de Loire,37,Indre-et-Loire,08B,"Emballages, journaux-magazines",35563.30608,606511,58.635879
+2017,24,Centre-Val de Loire,37,Indre-et-Loire,08C,Verre,22274.18832,606511,36.725118
+2017,24,Centre-Val de Loire,41,Loir-et-Cher,08A,Ordures ménagères résiduelles,73941.60857,331915,222.772723
+2017,24,Centre-Val de Loire,41,Loir-et-Cher,08B,"Emballages, journaux-magazines",14050.04675,331915,42.330255
+2017,24,Centre-Val de Loire,41,Loir-et-Cher,08C,Verre,12048.04642,331915,36.298589
+2017,24,Centre-Val de Loire,45,Loiret,08A,Ordures ménagères résiduelles,145686.62952,678105,214.843762
+2017,24,Centre-Val de Loire,45,Loiret,08B,"Emballages, journaux-magazines",30244.17431,678105,44.601019
+2017,24,Centre-Val de Loire,45,Loiret,08C,Verre,18483.70661,678105,27.257882
+2017,24,Centre-Val de Loire,45,Loiret,08D,Déchets de produits alimentaires,43.44589,678105,0.064069
+2017,94,Corse,2A,Corse-du-Sud,08A,Ordures ménagères résiduelles,73766.6,157249,469.106957
+2017,94,Corse,2A,Corse-du-Sud,08B,"Emballages, journaux-magazines",4704.88,157249,29.919935
+2017,94,Corse,2A,Corse-du-Sud,08C,Verre,4933.52,157249,31.373935
+2017,94,Corse,2B,Haute-Corse,08A,Ordures ménagères résiduelles,70996.77275,177689,399.556375
+2017,94,Corse,2B,Haute-Corse,08B,"Emballages, journaux-magazines",6983.03094,177689,39.299174
+2017,94,Corse,2B,Haute-Corse,08C,Verre,5817.54427,177689,32.740036
+2017,94,Corse,2B,Haute-Corse,08D,Déchets de produits alimentaires,991.21,177689,5.578341
+2017,97,Dom-Com,971,Guadeloupe,08A,Ordures ménagères résiduelles,129336.05,390253,331.415901
+2017,97,Dom-Com,971,Guadeloupe,08B,"Emballages, journaux-magazines",2769.26435,390253,7.096074
+2017,97,Dom-Com,971,Guadeloupe,08C,Verre,2023.34128,390253,5.184691
+2017,97,Dom-Com,972,Martinique,08A,Ordures ménagères résiduelles,121600.41,372594,326.361696
+2017,97,Dom-Com,972,Martinique,08B,"Emballages, journaux-magazines",6637.71,372594,17.81486
+2017,97,Dom-Com,972,Martinique,08C,Verre,3715.04,372594,9.970745
+2017,97,Dom-Com,972,Martinique,08D,Déchets de produits alimentaires,2384.18,372594,6.398868
+2017,97,Dom-Com,973,Guyane,08A,Ordures ménagères résiduelles,61619,268700,229.322664
+2017,97,Dom-Com,973,Guyane,08B,"Emballages, journaux-magazines",1640.05163,268700,6.103653
+2017,97,Dom-Com,973,Guyane,08C,Verre,5420.88007,268700,20.174469
+2017,97,Dom-Com,974,Réunion,08A,Ordures ménagères résiduelles,219437.79,853659,257.055557
+2017,97,Dom-Com,974,Réunion,08B,"Emballages, journaux-magazines",28179.09,853659,33.009773
+2017,97,Dom-Com,974,Réunion,08C,Verre,12167.86,853659,14.253771
+2017,97,Dom-Com,974,Réunion,08D,Déchets de produits alimentaires,6440,853659,7.543995
+2017,97,Dom-Com,976,Mayotte,08A,Ordures ménagères résiduelles,56019.66377,256518,218.384923
+2017,97,Dom-Com,976,Mayotte,08B,"Emballages, journaux-magazines",0,256518,0
+2017,97,Dom-Com,976,Mayotte,08C,Verre,0,256518,0
+2017,44,Grand-Est,08,Ardennes,08A,Ordures ménagères résiduelles,65726.37,273579,240.2464
+2017,44,Grand-Est,08,Ardennes,08B,"Emballages, journaux-magazines",16841.3,273579,61.559184
+2017,44,Grand-Est,08,Ardennes,08C,Verre,10010.88,273579,36.592282
+2017,44,Grand-Est,10,Aube,08A,Ordures ménagères résiduelles,72743.6561,310020,234.641816
+2017,44,Grand-Est,10,Aube,08B,"Emballages, journaux-magazines",17274.97082,310020,55.722117
+2017,44,Grand-Est,10,Aube,08C,Verre,10935.63997,310020,35.273982
+2017,44,Grand-Est,51,Marne,08A,Ordures ménagères résiduelles,135598.97644,568854,238.372194
+2017,44,Grand-Est,51,Marne,08B,"Emballages, journaux-magazines",27405.68366,568854,48.177007
+2017,44,Grand-Est,51,Marne,08C,Verre,22172.95295,568854,38.978284
+2017,44,Grand-Est,51,Marne,08D,Déchets de produits alimentaires,47.64,568854,0.083747
+2017,44,Grand-Est,52,Haute-Marne,08A,Ordures ménagères résiduelles,40673.95972,175640,231.575721
+2017,44,Grand-Est,52,Haute-Marne,08B,"Emballages, journaux-magazines",7918.52943,175640,45.083861
+2017,44,Grand-Est,52,Haute-Marne,08C,Verre,6919.50678,175640,39.395962
+2017,44,Grand-Est,54,Meurthe-et-Moselle,08A,Ordures ménagères résiduelles,177158.27489,733481,241.53083
+2017,44,Grand-Est,54,Meurthe-et-Moselle,08B,"Emballages, journaux-magazines",34269.47349,733481,46.721692
+2017,44,Grand-Est,54,Meurthe-et-Moselle,08C,Verre,19455.73011,733481,26.525199
+2017,44,Grand-Est,55,Meuse,08A,Ordures ménagères résiduelles,42177.50438,187187,225.322828
+2017,44,Grand-Est,55,Meuse,08B,"Emballages, journaux-magazines",9277.30181,187187,49.561677
+2017,44,Grand-Est,55,Meuse,08C,Verre,7396.91843,187187,39.516197
+2017,44,Grand-Est,57,Moselle,08A,Ordures ménagères résiduelles,229928.44374,1043522,220.338856
+2017,44,Grand-Est,57,Moselle,08B,"Emballages, journaux-magazines",61769.00274,1043522,59.192813
+2017,44,Grand-Est,57,Moselle,08C,Verre,33199.34481,1043522,31.814705
+2017,44,Grand-Est,57,Moselle,08D,Déchets de produits alimentaires,19313.43665,1043522,18.507934
+2017,44,Grand-Est,67,Bas-Rhin,08A,Ordures ménagères résiduelles,220608.6504,1125559,195.999188
+2017,44,Grand-Est,67,Bas-Rhin,08B,"Emballages, journaux-magazines",63179.81853,1125559,56.131947
+2017,44,Grand-Est,67,Bas-Rhin,08C,Verre,38630.5046,1125559,34.321172
+2017,44,Grand-Est,67,Bas-Rhin,08D,Déchets de produits alimentaires,1227.84335,1125559,1.090874
+2017,44,Grand-Est,68,Haut-Rhin,08A,Ordures ménagères résiduelles,143242.58,764030,187.482926
+2017,44,Grand-Est,68,Haut-Rhin,08B,"Emballages, journaux-magazines",52356.32945,764030,68.526536
+2017,44,Grand-Est,68,Haut-Rhin,08C,Verre,29121.09416,764030,38.115118
+2017,44,Grand-Est,68,Haut-Rhin,08D,Déchets de produits alimentaires,16776.83,764030,21.958339
+2017,44,Grand-Est,88,Vosges,08A,Ordures ménagères résiduelles,80631.38482,367673,219.301892
+2017,44,Grand-Est,88,Vosges,08B,"Emballages, journaux-magazines",18981.02528,367673,51.624746
+2017,44,Grand-Est,88,Vosges,08C,Verre,15007.3527,367673,40.817119
+2017,44,Grand-Est,88,Vosges,08D,Déchets de produits alimentaires,157.07,367673,0.4272
+2017,32,Hauts-de-France,02,Aisne,08A,Ordures ménagères résiduelles,120842.11614,534531,226.071296
+2017,32,Hauts-de-France,02,Aisne,08B,"Emballages, journaux-magazines",28352.21839,534531,53.041298
+2017,32,Hauts-de-France,02,Aisne,08C,Verre,18835.94955,534531,35.238273
+2017,32,Hauts-de-France,59,Nord,08A,Ordures ménagères résiduelles,625089.34595,2604361,240.016397
+2017,32,Hauts-de-France,59,Nord,08B,"Emballages, journaux-magazines",187689.77964,2604361,72.067497
+2017,32,Hauts-de-France,59,Nord,08C,Verre,55074.95106,2604361,21.147203
+2017,32,Hauts-de-France,60,Oise,08A,Ordures ménagères résiduelles,199975.24,824503,242.540342
+2017,32,Hauts-de-France,60,Oise,08B,"Emballages, journaux-magazines",47796.38,824503,57.969928
+2017,32,Hauts-de-France,60,Oise,08C,Verre,22672.107,824503,27.497907
+2017,32,Hauts-de-France,62,Pas-de-Calais,08A,Ordures ménagères résiduelles,397742.68533,1468018,270.938561
+2017,32,Hauts-de-France,62,Pas-de-Calais,08B,"Emballages, journaux-magazines",89012.30739,1468018,60.634343
+2017,32,Hauts-de-France,62,Pas-de-Calais,08C,Verre,60777.84416,1468018,41.401293
+2017,32,Hauts-de-France,62,Pas-de-Calais,08D,Déchets de produits alimentaires,8207.9,1468018,5.591143
+2017,32,Hauts-de-France,80,Somme,08A,Ordures ménagères résiduelles,149716.23537,572443,261.539114
+2017,32,Hauts-de-France,80,Somme,08B,"Emballages, journaux-magazines",28201.06654,572443,49.264409
+2017,32,Hauts-de-France,80,Somme,08C,Verre,20589.11096,572443,35.967093
+2017,11,Ile-de-France,75,Paris,08A,Ordures ménagères résiduelles,776542,2187526,354.986409
+2017,11,Ile-de-France,75,Paris,08B,"Emballages, journaux-magazines",82428,2187526,37.680923
+2017,11,Ile-de-France,75,Paris,08C,Verre,70656.2,2187526,32.299593
+2017,11,Ile-de-France,77,Seine-et-Marne,08A,Ordures ménagères résiduelles,395224.18866,1403997,281.499311
+2017,11,Ile-de-France,77,Seine-et-Marne,08B,"Emballages, journaux-magazines",53284.73303,1403997,37.95217
+2017,11,Ile-de-France,77,Seine-et-Marne,08C,Verre,28637.64324,1403997,20.397225
+2017,11,Ile-de-France,78,Yvelines,08A,Ordures ménagères résiduelles,361105.02638,1438266,251.069709
+2017,11,Ile-de-France,78,Yvelines,08B,"Emballages, journaux-magazines",57732.35406,1438266,40.140248
+2017,11,Ile-de-France,78,Yvelines,08C,Verre,33872.25844,1438266,23.55076
+2017,11,Ile-de-France,91,Essonne,08A,Ordures ménagères résiduelles,322077.82509,1296130,248.491914
+2017,11,Ile-de-France,91,Essonne,08B,"Emballages, journaux-magazines",56858.02016,1296130,43.867528
+2017,11,Ile-de-France,91,Essonne,08C,Verre,24731.9022,1296130,19.081343
+2017,11,Ile-de-France,92,Hauts-de-seine,08A,Ordures ménagères résiduelles,428365,1609306,266.179955
+2017,11,Ile-de-France,92,Hauts-de-seine,08B,"Emballages, journaux-magazines",54993.32,1609306,34.172071
+2017,11,Ile-de-France,92,Hauts-de-seine,08C,Verre,28310.2,1609306,17.591558
+2017,11,Ile-de-France,93,Seine-Saint-Denis,08A,Ordures ménagères résiduelles,491951.02891,1623111,303.091426
+2017,11,Ile-de-France,93,Seine-Saint-Denis,08B,"Emballages, journaux-magazines",40893.44786,1623111,25.194486
+2017,11,Ile-de-France,93,Seine-Saint-Denis,08C,Verre,15659.81552,1623111,9.648025
+2017,11,Ile-de-France,94,Val-de-Marne,08A,Ordures ménagères résiduelles,371126.76093,1387926,267.396648
+2017,11,Ile-de-France,94,Val-de-Marne,08B,"Emballages, journaux-magazines",51170.55601,1387926,36.86836
+2017,11,Ile-de-France,94,Val-de-Marne,08C,Verre,22501.40844,1387926,16.212253
+2017,11,Ile-de-France,95,Val-d'Oise,08A,Ordures ménagères résiduelles,328314.48584,1228618,267.222591
+2017,11,Ile-de-France,95,Val-d'Oise,08B,"Emballages, journaux-magazines",43304.92224,1228618,35.246856
+2017,11,Ile-de-France,95,Val-d'Oise,08C,Verre,20233.25032,1228618,16.4683
+2017,28,Normandie,14,Calvados,08A,Ordures ménagères résiduelles,180953.61632,694534,260.539608
+2017,28,Normandie,14,Calvados,08B,"Emballages, journaux-magazines",41395.90168,694534,59.602412
+2017,28,Normandie,14,Calvados,08C,Verre,26835.99827,694534,38.638854
+2017,28,Normandie,14,Calvados,08D,Déchets de produits alimentaires,224.15,694534,0.322734
+2017,28,Normandie,27,Eure,08A,Ordures ménagères résiduelles,147205.03884,601843,244.590431
+2017,28,Normandie,27,Eure,08B,"Emballages, journaux-magazines",27011.27673,601843,44.880935
+2017,28,Normandie,27,Eure,08C,Verre,17382.29279,601843,28.881772
+2017,28,Normandie,50,Manche,08A,Ordures ménagères résiduelles,114215.03233,496351,230.109403
+2017,28,Normandie,50,Manche,08B,"Emballages, journaux-magazines",29387.59231,496351,59.207279
+2017,28,Normandie,50,Manche,08C,Verre,21969.37948,496351,44.261781
+2017,28,Normandie,61,Orne,08A,Ordures ménagères résiduelles,62917.5537,283372,222.031653
+2017,28,Normandie,61,Orne,08B,"Emballages, journaux-magazines",12591.18839,283372,44.433424
+2017,28,Normandie,61,Orne,08C,Verre,9347.24204,283372,32.985764
+2017,28,Normandie,76,Seine-Maritime,08A,Ordures ménagères résiduelles,336256.08915,1254378,268.065996
+2017,28,Normandie,76,Seine-Maritime,08B,"Emballages, journaux-magazines",56956.06287,1254378,45.40582
+2017,28,Normandie,76,Seine-Maritime,08C,Verre,34009.83617,1254378,27.112908
+2017,75,Nouvelle-Aquitaine,16,Charente,08A,Ordures ménagères résiduelles,67958.04,352335,192.879049
+2017,75,Nouvelle-Aquitaine,16,Charente,08B,"Emballages, journaux-magazines",23464.4,352335,66.596846
+2017,75,Nouvelle-Aquitaine,16,Charente,08C,Verre,12290.62,352335,34.883335
+2017,75,Nouvelle-Aquitaine,16,Charente,08D,Déchets de produits alimentaires,292.32,352335,0.829664
+2017,75,Nouvelle-Aquitaine,17,Charente-Maritime,08A,Ordures ménagères résiduelles,169458.32,644303,263.010291
+2017,75,Nouvelle-Aquitaine,17,Charente-Maritime,08B,"Emballages, journaux-magazines",48681.3,644303,75.556531
+2017,75,Nouvelle-Aquitaine,17,Charente-Maritime,08C,Verre,29886.37,644303,46.385582
+2017,75,Nouvelle-Aquitaine,19,Corrèze,08A,Ordures ménagères résiduelles,56526.73621,241464,234.100057
+2017,75,Nouvelle-Aquitaine,19,Corrèze,08B,"Emballages, journaux-magazines",12336.09658,241464,51.08876
+2017,75,Nouvelle-Aquitaine,19,Corrèze,08C,Verre,7640.52363,241464,31.642495
+2017,75,Nouvelle-Aquitaine,19,Corrèze,08D,Déchets de produits alimentaires,150.15354,241464,0.621846
+2017,75,Nouvelle-Aquitaine,23,Creuse,08A,Ordures ménagères résiduelles,26893.21121,118638,226.682944
+2017,75,Nouvelle-Aquitaine,23,Creuse,08B,"Emballages, journaux-magazines",6690.41818,118638,56.393551
+2017,75,Nouvelle-Aquitaine,23,Creuse,08C,Verre,4379.19807,118638,36.912271
+2017,75,Nouvelle-Aquitaine,24,Dordogne,08A,Ordures ménagères résiduelles,98846.53797,413606,238.987195
+2017,75,Nouvelle-Aquitaine,24,Dordogne,08B,"Emballages, journaux-magazines",24625.67417,413606,59.538967
+2017,75,Nouvelle-Aquitaine,24,Dordogne,08C,Verre,16485.08444,413606,39.856976
+2017,75,Nouvelle-Aquitaine,24,Dordogne,08D,Déchets de produits alimentaires,14.79646,413606,0.035774
+2017,75,Nouvelle-Aquitaine,33,Gironde,08A,Ordures ménagères résiduelles,393696.6403,1583384,248.642553
+2017,75,Nouvelle-Aquitaine,33,Gironde,08B,"Emballages, journaux-magazines",88027.38772,1583384,55.594465
+2017,75,Nouvelle-Aquitaine,33,Gironde,08C,Verre,50611.35253,1583384,31.964041
+2017,75,Nouvelle-Aquitaine,33,Gironde,08D,Déchets de produits alimentaires,1644.1,1583384,1.038345
+2017,75,Nouvelle-Aquitaine,40,Landes,08A,Ordures ménagères résiduelles,122430.9295,407444,300.485292
+2017,75,Nouvelle-Aquitaine,40,Landes,08B,"Emballages, journaux-magazines",19326.76866,407444,47.434171
+2017,75,Nouvelle-Aquitaine,40,Landes,08C,Verre,16444.99759,407444,40.361368
+2017,75,Nouvelle-Aquitaine,40,Landes,08D,Déchets de produits alimentaires,293,407444,0.719117
+2017,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08A,Ordures ménagères résiduelles,85254.70748,332842,256.141675
+2017,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08B,"Emballages, journaux-magazines",15763.73894,332842,47.361026
+2017,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,08C,Verre,9886.90052,332842,29.704485
+2017,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08A,Ordures ménagères résiduelles,168190.57087,677309,248.321771
+2017,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08B,"Emballages, journaux-magazines",36563.86718,677309,53.984026
+2017,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08C,Verre,24108.64992,677309,35.594757
+2017,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,08D,Déchets de produits alimentaires,335.7,677309,0.495637
+2017,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08A,Ordures ménagères résiduelles,68326.945,374351,182.521069
+2017,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08B,"Emballages, journaux-magazines",19490.035,374351,52.063531
+2017,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08C,Verre,14105.695,374351,37.680398
+2017,75,Nouvelle-Aquitaine,79,Deux-Sèvres,08D,Déchets de produits alimentaires,259.66,374351,0.693627
+2017,75,Nouvelle-Aquitaine,86,Vienne,08A,Ordures ménagères résiduelles,87734.75,436876,200.823002
+2017,75,Nouvelle-Aquitaine,86,Vienne,08B,"Emballages, journaux-magazines",22965.89,436876,52.56844
+2017,75,Nouvelle-Aquitaine,86,Vienne,08C,Verre,14534.68,436876,33.269577
+2017,75,Nouvelle-Aquitaine,86,Vienne,08D,Déchets de produits alimentaires,192.98,436876,0.441727
+2017,75,Nouvelle-Aquitaine,87,Haute-Vienne,08A,Ordures ménagères résiduelles,82927.32,374426,221.478529
+2017,75,Nouvelle-Aquitaine,87,Haute-Vienne,08B,"Emballages, journaux-magazines",20576.45501,374426,54.954663
+2017,75,Nouvelle-Aquitaine,87,Haute-Vienne,08C,Verre,11484.92,374426,30.673404
+2017,76,Occitanie,09,Ariège,08B,"Emballages, journaux-magazines",7795.80095,153153,50.902045
+2017,76,Occitanie,09,Ariège,08C,Verre,4970.20859,153153,32.45257
+2009,76,Occitanie,09,Ariège,08A,Ordures ménagères résiduelles,48291.87141,151117,319.566107
+2017,76,Occitanie,11,Aude,08A,Ordures ménagères résiduelles,125614.86794,370260,339.261243
+2017,76,Occitanie,11,Aude,08B,"Emballages, journaux-magazines",16818.38724,370260,45.423181
+2017,76,Occitanie,11,Aude,08C,Verre,11525.60777,370260,31.128417
+2017,76,Occitanie,12,Aveyron,08A,Ordures ménagères résiduelles,64330.86306,279206,230.406449
+2017,76,Occitanie,12,Aveyron,08B,"Emballages, journaux-magazines",17204.1826,279206,61.618241
+2017,76,Occitanie,12,Aveyron,08C,Verre,8737.38073,279206,31.293671
+2017,76,Occitanie,30,Gard,08A,Ordures ménagères résiduelles,212152.36162,744178,285.082818
+2017,76,Occitanie,30,Gard,08B,"Emballages, journaux-magazines",35872.16667,744178,48.203745
+2017,76,Occitanie,30,Gard,08C,Verre,21229.32697,744178,28.527216
+2017,76,Occitanie,31,Haute-Garonne,08A,Ordures ménagères résiduelles,348575.49102,1362672,255.80293
+2017,76,Occitanie,31,Haute-Garonne,08B,"Emballages, journaux-magazines",60321.28788,1362672,44.266916
+2017,76,Occitanie,31,Haute-Garonne,08C,Verre,37648.89188,1362672,27.628726
+2017,76,Occitanie,31,Haute-Garonne,08D,Déchets de produits alimentaires,38.11,1362672,0.027967
+2017,76,Occitanie,32,Gers,08A,Ordures ménagères résiduelles,44548.87482,191091,233.12911
+2017,76,Occitanie,32,Gers,08B,"Emballages, journaux-magazines",11165.45234,191091,58.430027
+2017,76,Occitanie,32,Gers,08C,Verre,6868.79847,191091,35.945169
+2017,76,Occitanie,34,Hérault,08A,Ordures ménagères résiduelles,340383.83304,1144892,297.306499
+2017,76,Occitanie,34,Hérault,08B,"Emballages, journaux-magazines",58274.69931,1144892,50.899734
+2017,76,Occitanie,34,Hérault,08C,Verre,32954.51249,1144892,28.783948
+2017,76,Occitanie,34,Hérault,08D,Déchets de produits alimentaires,2790,1144892,2.436911
+2017,76,Occitanie,46,Lot,08A,Ordures ménagères résiduelles,39342.45682,173828,226.329801
+2017,76,Occitanie,46,Lot,08B,"Emballages, journaux-magazines",15713.20944,173828,90.395157
+2017,76,Occitanie,46,Lot,08C,Verre,7178.87916,173828,41.29875
+2017,76,Occitanie,48,Lozère,08A,Ordures ménagères résiduelles,20258.42651,76601,264.466867
+2017,76,Occitanie,48,Lozère,08B,"Emballages, journaux-magazines",3063.75505,76601,39.99628
+2017,76,Occitanie,48,Lozère,08C,Verre,2354.67314,76601,30.739456
+2017,76,Occitanie,65,Hautes-Pyrénées,08A,Ordures ménagères résiduelles,60171.10034,228530,263.296286
+2017,76,Occitanie,65,Hautes-Pyrénées,08B,"Emballages, journaux-magazines",12657.93754,228530,55.388515
+2017,76,Occitanie,65,Hautes-Pyrénées,08C,Verre,7712.27164,228530,33.747305
+2017,76,Occitanie,66,Pyrénées-Orientales,08A,Ordures ménagères résiduelles,159529.78825,474452,336.2401
+2017,76,Occitanie,66,Pyrénées-Orientales,08B,"Emballages, journaux-magazines",28751.31124,474452,60.598988
+2017,76,Occitanie,66,Pyrénées-Orientales,08C,Verre,15751.97851,474452,33.200362
+2017,76,Occitanie,81,Tarn,08A,Ordures ménagères résiduelles,93188.52467,387890,240.24472
+2017,76,Occitanie,81,Tarn,08B,"Emballages, journaux-magazines",22804.14736,387890,58.790243
+2017,76,Occitanie,81,Tarn,08C,Verre,11888.52496,387890,30.649217
+2017,76,Occitanie,82,Tarn-et-Garonne,08A,Ordures ménagères résiduelles,62888.90849,258349,243.426173
+2017,76,Occitanie,82,Tarn-et-Garonne,08B,"Emballages, journaux-magazines",18534.82825,258349,71.743371
+2017,76,Occitanie,82,Tarn-et-Garonne,08C,Verre,7218.8516,258349,27.942247
+2017,93,PACA,04,Alpes-de-Haute-Provence,08A,Ordures ménagères résiduelles,59252.40886,163915,361.482529
+2017,93,PACA,04,Alpes-de-Haute-Provence,08B,"Emballages, journaux-magazines",5241.72692,163915,31.978323
+2017,93,PACA,04,Alpes-de-Haute-Provence,08C,Verre,4572.78853,163915,27.897315
+2017,93,PACA,05,Hautes-Alpes,08A,Ordures ménagères résiduelles,44417.48251,141284,314.384378
+2017,93,PACA,05,Hautes-Alpes,08B,"Emballages, journaux-magazines",7571.96308,141284,53.593917
+2017,93,PACA,05,Hautes-Alpes,08C,Verre,5825.89781,141284,41.235368
+2017,93,PACA,06,Alpes-Maritimes,08A,Ordures ménagères résiduelles,425769.7,1083310,393.026649
+2017,93,PACA,06,Alpes-Maritimes,08B,"Emballages, journaux-magazines",46606.61,1083310,43.022412
+2017,93,PACA,06,Alpes-Maritimes,08C,Verre,28113.23,1083310,25.951232
+2017,93,PACA,13,Bouches-du-Rhône,08A,Ordures ménagères résiduelles,748121.58458,2024162,369.595706
+2017,93,PACA,13,Bouches-du-Rhône,08B,"Emballages, journaux-magazines",50991.73692,2024162,25.191529
+2017,93,PACA,13,Bouches-du-Rhône,08C,Verre,30785.52839,2024162,15.209023
+2017,93,PACA,83,Var,08A,Ordures ménagères résiduelles,440441.62496,1058740,416.005464
+2017,93,PACA,83,Var,08B,"Emballages, journaux-magazines",45289.01736,1058740,42.776335
+2017,93,PACA,83,Var,08C,Verre,28504.3749,1058740,26.922922
+2017,93,PACA,84,Vaucluse,08A,Ordures ménagères résiduelles,186021.4436,559479,332.490484
+2017,93,PACA,84,Vaucluse,08B,"Emballages, journaux-magazines",22886.52484,559479,40.906852
+2017,93,PACA,84,Vaucluse,08C,Verre,15377.32409,559479,27.485078
+2017,93,PACA,84,Vaucluse,08D,Déchets de produits alimentaires,297.12,559479,0.531065
+2017,52,Pays de la Loire,44,Loire-Atlantique,08A,Ordures ménagères résiduelles,272212.91544,1394783,195.165065
+2017,52,Pays de la Loire,44,Loire-Atlantique,08B,"Emballages, journaux-magazines",59361.00053,1394783,42.559308
+2017,52,Pays de la Loire,44,Loire-Atlantique,08C,Verre,52664.46276,1394783,37.758176
+2017,52,Pays de la Loire,49,Maine-et-Loire,08A,Ordures ménagères résiduelles,129679.17235,813619,159.385624
+2017,52,Pays de la Loire,49,Maine-et-Loire,08B,"Emballages, journaux-magazines",45731.38184,813619,56.207367
+2017,52,Pays de la Loire,49,Maine-et-Loire,08C,Verre,33401.88828,813619,41.053476
+2017,52,Pays de la Loire,53,Mayenne,08A,Ordures ménagères résiduelles,52727.25553,307445,171.501424
+2017,52,Pays de la Loire,53,Mayenne,08B,"Emballages, journaux-magazines",15736.67795,307445,51.185343
+2017,52,Pays de la Loire,53,Mayenne,08C,Verre,11260.34019,307445,36.625543
+2017,52,Pays de la Loire,72,Sarthe,08A,Ordures ménagères résiduelles,103114.66287,566506,182.018659
+2017,52,Pays de la Loire,72,Sarthe,08B,"Emballages, journaux-magazines",30355.57552,566506,53.583855
+2017,52,Pays de la Loire,72,Sarthe,08C,Verre,19931.0274,566506,35.182376
+2017,52,Pays de la Loire,85,Vendée,08A,Ordures ménagères résiduelles,117888.81,675247,174.586203
+2017,52,Pays de la Loire,85,Vendée,08B,"Emballages, journaux-magazines",43316.69,675247,64.1494
+2017,52,Pays de la Loire,85,Vendée,08C,Verre,33995.54,675247,50.34534
+2017,52,Pays de la Loire,85,Vendée,08D,Déchets de produits alimentaires,1211.82,675247,1.794632
