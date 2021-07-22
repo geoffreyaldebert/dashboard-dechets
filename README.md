@@ -1,4 +1,4 @@
-# Dashboard Dechets - Données SINOE
+# Dashboard Dechets - Données SINOE (Expérimental)
 
 Le dashboard est disponible ici : https://dashboard-dechets.netlify.app/
 
